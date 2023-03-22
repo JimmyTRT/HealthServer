@@ -4,11 +4,13 @@ import time
 from sqlite3 import Error
 import logging
 import uuid
+
 # Laden van de logger configuratie
 logging.config.fileConfig('logging.conf')
 
 # create logger
 logger = logging.getLogger('Healthcontroller')
+
 
 class Database:
     def __init__(self, db_file):
@@ -20,7 +22,6 @@ class Database:
         self.db_file = db_file
         self.create_tables()
         self.logger.info("Database geactiveerd")
-
 
     def create_connection(self):
         conn = None
@@ -57,8 +58,6 @@ class Database:
         conn.commit()
         conn.close()
 
-
-
     # Genereer een willekeurige UUID
     # random_uuid = uuid.uuid4()
     def add_controller(self, name, ip, vpn):
@@ -66,7 +65,8 @@ class Database:
         conn = self.create_connection()
         cursor = conn.cursor()
 
-        cursor.execute("INSERT INTO controllers (id, name, ip, vpn) VALUES (?, ?, ?, ?)", (str(uuid.uuid4()), name, ip, vpn))
+        cursor.execute("INSERT INTO controllers (id, name, ip, vpn) VALUES (?, ?, ?, ?)",
+                       (str(uuid.uuid4()), name, ip, vpn))
         conn.commit()
 
         controller_id = cursor.lastrowid
@@ -78,8 +78,9 @@ class Database:
         conn = self.create_connection()
         cursor = conn.cursor()
 
-        cursor.execute("INSERT INTO events (controller_id, timestamp, event_name, event_status, server_ok) VALUES (?, ?, ?, ?, ?)",
-                       (controller_id, datetime.datetime.now(), event_name, event_status, server_ok))
+        cursor.execute(
+            "INSERT INTO events (controller_id, timestamp, event_name, event_status, server_ok) VALUES (?, ?, ?, ?, ?)",
+            (controller_id, datetime.datetime.now(), event_name, event_status, server_ok))
         conn.commit()
 
         event_id = cursor.lastrowid
