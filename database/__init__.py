@@ -1,3 +1,4 @@
+import sqlalchemy
 import sqlite3
 import datetime
 import time
@@ -10,6 +11,19 @@ logging.config.fileConfig('logging.conf')
 
 # create logger
 logger = logging.getLogger('Healthcontroller')
+
+# Conversie van sqlite db naar een sqlalchemy opzet
+# zodat het mogelijk is om te wisselen tussen sqlite op development naar productie postgresql
+
+
+
+
+
+
+
+
+
+
 
 
 class Database:
