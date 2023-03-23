@@ -1,9 +1,11 @@
 from flask import Flask
+from logger import setup_logger
 import database
 
+logger = setup_logger()
 app = Flask(__name__)
 
-db = database.Database("health.db")
+#db = database.Database("health.db")
 
 @app.route('/1')
 def hello():
@@ -11,6 +13,7 @@ def hello():
 
 @app.route('/')
 def lijst_controllers():
+    logger.info("Flask show controllerlijst")
     # Lijst met controllers uit de database
     controllers = db.get_controllers()
 

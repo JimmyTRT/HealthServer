@@ -4,22 +4,21 @@ import threading
 from www import app
 from api import api
 from schedule import every, repeat, run_pending
-import logging.config
+from logger import setup_logger
+from database import engine
 import database
 
-# Laden van de logger configuratie
-logging.config.fileConfig('logging.conf')
-
 # create logger
-logger = logging.getLogger('Healthcontroller')
+logger = setup_logger()
 
 db = database.Database('health.db')
+
+
 
 
 @repeat(every(10).seconds)
 def job():
     logger.info('Run Job')
-    print("I am a scheduled job")
 
 
 @repeat(every(1).minute)
@@ -46,14 +45,19 @@ def check_calendar():
 def fast_api():
     uvicorn.run(api, host="0.0.0.0", port=9090)
 
+#todo: Poort numers variable maken
+
 
 # start de applicatie
 if __name__ == '__main__':
+    logger.info("Starting application")
     # start routine 1 - Flask applicatie
+    logger.info("Starting www on port 8080")
     threads = []
     t_app = threading.Thread(target=app.run, kwargs={'port': 8080}).start()
     threads.append(t_app)
     # start routine 2 - FastAPI applicatie
+    logger.info("Starting api on port 9090")
     t_api = threading.Thread(target=fast_api).start()
     threads.append(t_api)
     # start routine 3 - leest en schrijft data naar de database en voert tijdgebonden functies uit

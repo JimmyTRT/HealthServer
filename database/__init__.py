@@ -1,38 +1,50 @@
-import sqlalchemy
+from sqlalchemy import create_engine, String, ForeignKey
+from sqlalchemy.orm import DeclarativeBase, Mapped, MappedColumn, relationship
 import sqlite3
 import datetime
-import time
 from sqlite3 import Error
-import logging
+
 import uuid
-
-# Laden van de logger configuratie
-logging.config.fileConfig('logging.conf')
-
-# create logger
-logger = logging.getLogger('Healthcontroller')
+from logger import setup_logger
 
 # Conversie van sqlite db naar een sqlalchemy opzet
 # zodat het mogelijk is om te wisselen tussen sqlite op development naar productie postgresql
 
+#engine = create_engine("sqlite:///health.db")
 
 
+class Base(DeclarativeBase):
+    pass
 
 
+class Controller(Base):
+    __tablename__ = "controller"
 
+    id: Mapped[str] = MappedColumn(primary_key=True)
+    controller_name: Mapped[str] = MappedColumn(String(10))
+    active: Mapped[bool] = MappedColumn()
 
+    def __repr__(self) -> str:
+        return f"controller(id={self.id!r}, controller naam={self.controller_name!r}, active={self.active!r})"
 
+class Ip(Base):
+    __tablename__ = "ip"
 
+    id: Mapped[str] = MappedColumn(primary_key=True)
+    controller_id: Mapped[str] = MappedColumn(ForeignKey("controller.id"))
+    ip: Mapped[str] = MappedColumn[String(16)]
 
+    def __repr__(self) -> str:
+        return f"ip(id={self.id!r}, controller id={self.controller_id!r}, ip={self.ip!r})"
+
+class event(Base):
+    pass
 
 
 class Database:
     def __init__(self, db_file):
-        # Laden van de logger configuratie
-        logging.config.fileConfig('logging.conf')
-
         # create logger
-        self.logger = logging.getLogger('Healthcontroller')
+        self.logger = setup_logger()
         self.db_file = db_file
         self.create_tables()
         self.logger.info("Database geactiveerd")
