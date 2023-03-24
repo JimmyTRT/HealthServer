@@ -24,8 +24,8 @@ class Controller(Base):
     controller_name: Mapped[str] = MappedColumn(String(10))
     active: Mapped[bool] = MappedColumn()
 
-    def __repr__(self) -> str:
-        return f"controller(id={self.id!r}, controller naam={self.controller_name!r}, active={self.active!r})"
+#    def __repr__(self) -> str:
+#        return f"controller(id={self.id!r}, controller naam={self.controller_name!r}, active={self.active!r})"
 
 class Ip(Base):
     __tablename__ = "ip"
@@ -34,8 +34,8 @@ class Ip(Base):
     controller_id: Mapped[str] = MappedColumn(ForeignKey("controller.id"))
     ip: Mapped[str] = MappedColumn[String(16)]
 
-    def __repr__(self) -> str:
-        return f"ip(id={self.id!r}, controller id={self.controller_id!r}, ip={self.ip!r})"
+#    def __repr__(self) -> str:
+#        return f"ip(id={self.id!r}, controller id={self.controller_id!r}, ip={self.ip!r})"
 
 class event(Base):
     pass
@@ -43,6 +43,7 @@ class event(Base):
 
 class Database:
     def __init__(self, db_file):
+        # valt tegen dat de commit van de windows pc niet doorgekomen is
         # create logger
         self.logger = setup_logger()
         self.db_file = db_file
