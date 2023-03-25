@@ -5,13 +5,11 @@ from www import app
 from api import api
 from schedule import every, repeat, run_pending
 from logger import setup_logger
-from database import engine
-import database
+import database as db
+
 
 # create logger
 logger = setup_logger()
-
-db = database.Database('health.db')
 
 
 
@@ -20,16 +18,22 @@ db = database.Database('health.db')
 def job():
     logger.info('Run Job')
 
+@repeat(every(60).seconds)
+def show():
+    db.show_controllers()
+#    db.show_all()
 
-@repeat(every(1).minute)
+@repeat(every(60).seconds)
 def check_something():
-    ctrl_id = db.add_controller('controller', '0.0.0.0', '1.1.1.1')
-    logger.info(f'toevoegen controller {ctrl_id}')
-    db.print_controllers()
+    db.add_controller('controller', '0.0.0.0', '1.1.1.1')
+#    logger.info(f'toevoegen controller {ctrl_id}')
+#    db.print_controllers()
 
 
 def schedule():
     # lees waarde vanuit bestand elke 20 seconden
+    id = db.get_id_controller('lc001')
+    print(f'id van controller = {id}')
     while True:
         run_pending()
         time.sleep(1)
