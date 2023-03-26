@@ -17,6 +17,7 @@ class Controller(Base):
     updated_at = Column(String)
     ip_wan = Column(String)
     ip_vpn = Column(String)
+    port = Column(Integer)
 
     events = relationship("Event", back_populates="controller")
 #    ipadressen = relationship("Ipadress", back_populates="controller")

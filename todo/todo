@@ -1,0 +1,22 @@
+Wat moet er nog gebeuren
+
+
+1. Communicatie tussen client en server
+
+    Hoe krijgt de client na aanmelden zijn UUID?
+    Hoe meld de client zich voor het eerst aan
+
+    server/hello
+
+        if controller unknown create new (add controller)
+        respons uuid => controller
+
+        if controller known respons uuid
+
+        Wat stuurt de controller in zijn request
+
+        controllername
+        ip wan
+        ip vpn
+        port
+

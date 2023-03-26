@@ -36,8 +36,6 @@ def check_something():
 
 def schedule():
     # lees waarde vanuit bestand elke 20 seconden
-    id = db.get_id_controller('lc3402')
-    print(f'id van controller = {id}')
     while True:
         run_pending()
         time.sleep(1)
