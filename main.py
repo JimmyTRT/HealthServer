@@ -1,3 +1,5 @@
+import random
+
 import uvicorn as uvicorn
 import time
 import threading
@@ -12,27 +14,29 @@ import database as db
 logger = setup_logger()
 
 
+def random_name():
+    getal = random.randint(0,9999)
+    return 'lc' + str(getal)
 
-
-@repeat(every(10).seconds)
-def job():
-    logger.info('Run Job')
+# @repeat(every(10).seconds)
+# def job():
+#     logger.info('Run Job')
 
 @repeat(every(60).seconds)
 def show():
     db.show_controllers()
 #    db.show_all()
 
-@repeat(every(60).seconds)
+@repeat(every(10).seconds)
 def check_something():
-    db.add_controller('controller', '0.0.0.0', '1.1.1.1')
+    db.add_controller(random_name(), '0.0.0.0', '1.1.1.1')
 #    logger.info(f'toevoegen controller {ctrl_id}')
 #    db.print_controllers()
 
 
 def schedule():
     # lees waarde vanuit bestand elke 20 seconden
-    id = db.get_id_controller('lc001')
+    id = db.get_id_controller('lc3402')
     print(f'id van controller = {id}')
     while True:
         run_pending()
