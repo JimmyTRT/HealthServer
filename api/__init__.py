@@ -1,11 +1,13 @@
 from fastapi import FastAPI
-from logger import setup_logger
+import logging
+
 from pydantic import BaseModel
 from datetime import datetime
 from sqlalchemy.orm import Session
 #from ..database import models, database
+import database.models
 
-logger = setup_logger()
+logger = logging.getLogger(__name__)
 api = FastAPI()
 
 
@@ -25,13 +27,36 @@ def write_data():
 
 @api.post('/hello')
 def api_hello(data: dict):
+    """
+    De eerste melding van een controller.
+
+    Bewaren van de gegevens in de database.
+    Indien de controller al bestaat
+        * bij veranderde gegevens database update
+        * bij onveranderde gegevens geen actie
+
+    :param data: controllernaam, ip_wan, ip_vpn, poort
+
+    :return: UUID van de aangemaakte controller
+    """
     # ontvang data van de server
-    #data = {'controllernaam': 'lc0001', 'ip_wan': '127.0.0.1', 'ip_vpn': '127.0.0.1'}
+
     logger.info(f"api write: controllernaam: {data.get('controllernaam')}, ip_wan: {data.get('ip_wan')},"
-                f"ip_vpn: {data.get('ip_vpn')} ")
+                f"ip_vpn: {data.get('ip_vpn')}, poort: {data.get('poort')} ")
+    # Nazien of de controller al bestaat.
+    print(f"FEEEEEEEEEESTTTTTTTTJEEEEEEEEEEEEEEEE {database.get_controller_exists(data.get('controllernaam'))}")
+    print(database.get_controller_exists(data.get("controllernaam")))
 
-
-    return {'message': 'Data is weggeschreven naar de database.'}
+    if database.get_controller_exists(data.get("controllernaam")):
+        print("controller bestaat")
+        #Data van de controller update indien niet gelijk en return UUID
+        info = database.get_id_controller(data.get("controllernaam"))
+        print(f"UUID van {data.get('controllernaam')} is {info}")
+        return info
+    else:
+        #controller aanmaken
+        database.add_controller(data.get('controllernaam'), data.get('ip_wan'), data.get('ip_vpn'), data.get('poort'))
+    return {'UUID': database.get_id_controller(data.get('controllernaam'))}
 
 # Model voor de JSON-payload
 class EventCreate(BaseModel):

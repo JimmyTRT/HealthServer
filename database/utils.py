@@ -1,6 +1,8 @@
+import logging
 from .database import session
 from .models import Controller, Event
 
+logger = logging.getLogger(__name__)
 
 # def add_controller(name, location, description):
 #     controller = Controller(name=name, location=location, description=description)
@@ -32,4 +34,12 @@ def add_ip(ip):
 def select_all(data):
     returndata = session.query(data).all()
     session.commit()
+    return returndata
+
+def select_first(data):
+    logger.info(f"select_first {data}")
+    returndata = session.query()
+
+    session.commit()
+    logger.info(returndata)
     return returndata

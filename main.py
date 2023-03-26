@@ -22,16 +22,18 @@ def random_name():
 # def job():
 #     logger.info('Run Job')
 
-@repeat(every(60).seconds)
+@repeat(every(20).seconds)
 def show():
     db.show_controllers()
+    print(f"controller lc0001 bestaat: {db.get_controller_id_by_name('lc0001')}")
 #    db.show_all()
 
 @repeat(every(10).seconds)
 def check_something():
-    db.add_controller(random_name(), '0.0.0.0', '1.1.1.1')
+#    db.add_controller(random_name(), '0.0.0.0', '1.1.1.1')
 #    logger.info(f'toevoegen controller {ctrl_id}')
 #    db.print_controllers()
+    pass
 
 
 def schedule():
