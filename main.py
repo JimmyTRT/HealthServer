@@ -24,12 +24,14 @@ def random_name():
 
 @repeat(every(20).seconds)
 def show():
-    db.show_controllers()
-    print(f"controller lc0001 bestaat: {db.get_controller_id_by_name('lc0001')}")
+    #db.show_controllers()
+    #print(f"controller lc0001 bestaat: {db.get_controller_id_by_name('lc0001')}")
 #    db.show_all()
+    pass
 
 @repeat(every(10).seconds)
 def check_something():
+    #print(db.get_id_controller('lc9141').id)
 #    db.add_controller(random_name(), '0.0.0.0', '1.1.1.1')
 #    logger.info(f'toevoegen controller {ctrl_id}')
 #    db.print_controllers()

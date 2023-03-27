@@ -6,6 +6,7 @@ from . import database
 from datetime import datetime
 from sqlalchemy.orm.exc import NoResultFound, MultipleResultsFound
 
+
 logger = logging.getLogger(__name__)
 
 
@@ -19,8 +20,8 @@ def get_id_controller(naam):
     # todo: try catch toevoegen
     try:
         controller = database.session.query(models.Controller).filter(models.Controller.name == naam).first()
-        logger.debug(f"get controller exists: {controller.id}")
-        return controller.id
+        logger.debug(f"get controller exists: {controller}")
+        return controller
     except NoResultFound:
         return None
     except MultipleResultsFound:
@@ -37,13 +38,17 @@ def get_controller_exists(naam):
     :return: Boolean
     """
     try:
-        controller = database.session.count(models.Controller).filter(models.Controller.name == naam)
-        logger.debug(f"get controller exists: {controller}")
-        return True
+        controller = database.session.query(models.Controller).filter(models.Controller.name == naam).first()
+        logger.info(f"get controller exists: {controller}")
+        if controller is not None:
+            return True
+        else:
+            return False
     except NoResultFound:
         return False
     except MultipleResultsFound:
         return False
+
 
 
 def show_controllers():
