@@ -1,10 +1,10 @@
 from flask import Flask
 
-#import database
+import database
 
 app = Flask(__name__)
 
-#db = database.Database("health.db")
+db = database.Database("health.db")
 
 @app.route('/1')
 def hello():
@@ -13,8 +13,8 @@ def hello():
 @app.route('/')
 def lijst_controllers():
     # Lijst met controllers uit de database
-    #controllers = db.get_controllers()
-    controllers = [('a','b','c','d')]
+    controllers = db.get_controllers()
+
     # HTML-code voor het weergeven van de lijst als een tabel
     html = "<table>"
     html += "<tr><th>ID</th><th>Naam</th><th>IP-adres</th><th>VPN-adres</th></tr>"

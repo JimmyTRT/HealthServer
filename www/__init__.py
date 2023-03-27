@@ -1,21 +1,15 @@
 from flask import Flask
-
-import database
 from logger import setup_logger
-from database import Database
-
+import database
 
 logger = setup_logger()
 app = Flask(__name__)
 
-db = database.Database()
-
-# db = database.Database("health.db")
+#db = database.Database("health.db")
 
 @app.route('/1')
 def hello():
     return 'Hello, World!'
-
 
 @app.route('/')
 def lijst_controllers():
@@ -39,5 +33,8 @@ def lijst_controllers():
     return html
 
 
+
+
 def www_start():
-    app.run(host='127.0.0.1', port=8080, debug=True)
+    app.run(host='127.0.0.1',port=8080,debug=True)
+

@@ -7,22 +7,33 @@ from www import app
 from api import api
 from schedule import every, repeat, run_pending
 from logger import setup_logger
-from database import engine
-import database
+import database as db
+
 
 # create logger
 logger = setup_logger()
 
-db = database.Database('health.db')
 
+def random_name():
+    getal = random.randint(0,9999)
+    return 'lc' + str(getal)
 
+# @repeat(every(10).seconds)
+# def job():
+#     logger.info('Run Job')
 
+@repeat(every(20).seconds)
+def show():
+    db.show_controllers()
+    print(f"controller lc0001 bestaat: {db.get_controller_id_by_name('lc0001')}")
+#    db.show_all()
 
 @repeat(every(10).seconds)
 def check_something():
-    ctrl_id = db.add_controller('controller', '0.0.0.0', '1.1.1.1')
-    logger.info(f'toevoegen controller {ctrl_id}')
-    db.print_controllers()
+#    db.add_controller(random_name(), '0.0.0.0', '1.1.1.1')
+#    logger.info(f'toevoegen controller {ctrl_id}')
+#    db.print_controllers()
+    pass
 
 
 def schedule():
