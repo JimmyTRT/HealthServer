@@ -44,15 +44,19 @@ def api_hello(data: dict):
     logger.info(f"api write: controllernaam: {data.get('controllernaam')}, ip_wan: {data.get('ip_wan')},"
                 f"ip_vpn: {data.get('ip_vpn')}, poort: {data.get('poort')} ")
     # Nazien of de controller al bestaat.
-    # print(db.get_id_controller(data.get('controllernaam')))
-    # answer = db.get_id_controller(data.get('controllernaam'))
-    # print(f" antwoord naar api {answer}")
-    # print(f"respons to exists {db.get_controller_exists(data.get('controllernaam'))}")
     if db.get_controller_exists(data.get('controllernaam')):
+        # Controller bestaat dus we geven UUID terug
         answer = db.get_id_controller(data.get('controllernaam'))
         logger.info(f"Sending UUID naar controller {answer}")
-        print(f"het antwoord naar api {answer.id}")
+        # Nazien of answer gelijk is aan de nieuwe controller
+        if answer.naam == data.get('controllernaam') and answer.ip1 != data.get("ip_wan") or
     else:
+        # Controller aanmaken
+        db.add_controller(naam=data.get('controllernaam'),
+                          ip1=data.get('ip_wan'),
+                          ip2=data.get('ip_vpn'),
+                          poort=data.get('poort'))
+        answer = db.get_id_controller(data.get('controllernaam'))
         print("Geen een controller")
     #print(database.get_controller_exists(data.get("controllernaam")))
     return answer.id
