@@ -3,14 +3,13 @@ from sqlalchemy.orm import DeclarativeBase, Mapped, MappedColumn, relationship
 import sqlite3
 import datetime
 from sqlite3 import Error
-
 import uuid
 from logger import setup_logger
 
 # Conversie van sqlite db naar een sqlalchemy opzet
 # zodat het mogelijk is om te wisselen tussen sqlite op development naar productie postgresql
 
-#engine = create_engine("sqlite:///health.db")
+engine = create_engine("sqlite:///health.db")
 
 
 class Base(DeclarativeBase):
@@ -27,10 +26,8 @@ class Controller(Base):
     def __repr__(self) -> str:
         return f"controller(id={self.id!r}, controller naam={self.controller_name!r}, active={self.active!r})"
 
-def add_controller(naam, ip1, ip2, poort):
-    controller = models.Controller(id=str(uuid.uuid4()), name=naam,
-                                   created_at=str(datetime.now()), ip_wan=ip1, ip_vpn=ip2, port=poort)
-    utils.add_controller(controller)
+class Ip(Base):
+    __tablename__ = "ip"
 
     id: Mapped[str] = MappedColumn(primary_key=True)
     controller_id: Mapped[str] = MappedColumn(ForeignKey("controller.id"))
@@ -114,7 +111,7 @@ class Database:
         event_id = cursor.lastrowid
         conn.close()
 
-def get_controller_id_by_name(name):
+        return event_id
 
     def print_controllers(self):
         """Print alle controllers in de controllers tabel naar de console"""

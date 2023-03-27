@@ -1880,3 +1880,1470 @@
 2023-03-23 15:01:49,254 [INFO] logger: Run Job
 2023-03-23 15:01:49,254 [INFO] logger: Run Job
 2023-03-23 15:01:49,254 [INFO] logger: Run Job
+2023-03-24 10:33:00,798 [INFO] logger: Starting application
+2023-03-24 10:33:00,798 [INFO] logger: Starting application
+2023-03-24 10:33:00,798 [INFO] logger: Starting application
+2023-03-24 10:33:00,800 [INFO] logger: Starting www on port 8080
+2023-03-24 10:33:00,800 [INFO] logger: Starting www on port 8080
+2023-03-24 10:33:00,800 [INFO] logger: Starting www on port 8080
+2023-03-24 10:33:00,802 [INFO] logger: Starting api on port 9090
+2023-03-24 10:33:00,802 [INFO] logger: Starting api on port 9090
+2023-03-24 10:33:00,802 [INFO] logger: Starting api on port 9090
+2023-03-24 10:33:00,805 [INFO] logger: calendar
+2023-03-24 10:33:00,805 [INFO] logger: calendar
+2023-03-24 10:33:00,805 [INFO] logger: calendar
+2023-03-24 10:33:05,523 [INFO] logger: Flask show controllerlijst
+2023-03-24 10:33:05,523 [INFO] logger: Flask show controllerlijst
+2023-03-24 10:33:05,523 [INFO] logger: Flask show controllerlijst
+2023-03-24 10:33:10,812 [INFO] logger: Run Job
+2023-03-24 10:33:10,812 [INFO] logger: Run Job
+2023-03-24 10:33:10,812 [INFO] logger: Run Job
+2023-03-24 10:33:20,819 [INFO] logger: Run Job
+2023-03-24 10:33:20,819 [INFO] logger: Run Job
+2023-03-24 10:33:20,819 [INFO] logger: Run Job
+2023-03-24 10:33:30,828 [INFO] logger: Run Job
+2023-03-24 10:33:30,828 [INFO] logger: Run Job
+2023-03-24 10:33:30,828 [INFO] logger: Run Job
+2023-03-24 10:33:40,836 [INFO] logger: Run Job
+2023-03-24 10:33:40,836 [INFO] logger: Run Job
+2023-03-24 10:33:40,836 [INFO] logger: Run Job
+2023-03-24 10:33:50,844 [INFO] logger: Run Job
+2023-03-24 10:33:50,844 [INFO] logger: Run Job
+2023-03-24 10:33:50,844 [INFO] logger: Run Job
+2023-03-24 10:34:00,808 [INFO] logger: calendar
+2023-03-24 10:34:00,808 [INFO] logger: calendar
+2023-03-24 10:34:00,808 [INFO] logger: calendar
+2023-03-24 10:35:00,811 [INFO] logger: calendar
+2023-03-24 10:35:00,811 [INFO] logger: calendar
+2023-03-24 10:35:00,811 [INFO] logger: calendar
+2023-03-24 10:36:00,813 [INFO] logger: calendar
+2023-03-24 10:36:00,813 [INFO] logger: calendar
+2023-03-24 10:36:00,813 [INFO] logger: calendar
+2023-03-24 10:37:00,814 [INFO] logger: calendar
+2023-03-24 10:37:00,814 [INFO] logger: calendar
+2023-03-24 10:37:00,814 [INFO] logger: calendar
+2023-03-24 10:38:00,818 [INFO] logger: calendar
+2023-03-24 10:38:00,818 [INFO] logger: calendar
+2023-03-24 10:38:00,818 [INFO] logger: calendar
+2023-03-24 10:39:00,820 [INFO] logger: calendar
+2023-03-24 10:39:00,820 [INFO] logger: calendar
+2023-03-24 10:39:00,820 [INFO] logger: calendar
+2023-03-24 10:40:00,822 [INFO] logger: calendar
+2023-03-24 10:40:00,822 [INFO] logger: calendar
+2023-03-24 10:40:00,822 [INFO] logger: calendar
+2023-03-24 10:41:00,825 [INFO] logger: calendar
+2023-03-24 10:41:00,825 [INFO] logger: calendar
+2023-03-24 10:41:00,825 [INFO] logger: calendar
+2023-03-24 10:42:00,828 [INFO] logger: calendar
+2023-03-24 10:42:00,828 [INFO] logger: calendar
+2023-03-24 10:42:00,828 [INFO] logger: calendar
+2023-03-24 10:43:00,830 [INFO] logger: calendar
+2023-03-24 10:43:00,830 [INFO] logger: calendar
+2023-03-24 10:43:00,830 [INFO] logger: calendar
+2023-03-24 10:44:00,832 [INFO] logger: calendar
+2023-03-24 10:44:00,832 [INFO] logger: calendar
+2023-03-24 10:44:00,832 [INFO] logger: calendar
+2023-03-24 10:45:00,834 [INFO] logger: calendar
+2023-03-24 10:45:00,834 [INFO] logger: calendar
+2023-03-24 10:45:00,834 [INFO] logger: calendar
+2023-03-24 10:46:00,838 [INFO] logger: calendar
+2023-03-24 10:46:00,838 [INFO] logger: calendar
+2023-03-24 10:46:00,838 [INFO] logger: calendar
+2023-03-24 10:47:00,843 [INFO] logger: calendar
+2023-03-24 10:47:00,843 [INFO] logger: calendar
+2023-03-24 10:47:00,843 [INFO] logger: calendar
+2023-03-24 10:48:00,847 [INFO] logger: calendar
+2023-03-24 10:48:00,847 [INFO] logger: calendar
+2023-03-24 10:48:00,847 [INFO] logger: calendar
+2023-03-24 10:49:00,849 [INFO] logger: calendar
+2023-03-24 10:49:00,849 [INFO] logger: calendar
+2023-03-24 10:49:00,849 [INFO] logger: calendar
+2023-03-24 10:50:00,850 [INFO] logger: calendar
+2023-03-24 10:50:00,850 [INFO] logger: calendar
+2023-03-24 10:50:00,850 [INFO] logger: calendar
+2023-03-24 10:51:00,853 [INFO] logger: calendar
+2023-03-24 10:51:00,853 [INFO] logger: calendar
+2023-03-24 10:51:00,853 [INFO] logger: calendar
+2023-03-24 10:52:00,856 [INFO] logger: calendar
+2023-03-24 10:52:00,856 [INFO] logger: calendar
+2023-03-24 10:52:00,856 [INFO] logger: calendar
+2023-03-24 10:53:00,856 [INFO] logger: calendar
+2023-03-24 10:53:00,856 [INFO] logger: calendar
+2023-03-24 10:53:00,856 [INFO] logger: calendar
+2023-03-24 10:54:00,858 [INFO] logger: calendar
+2023-03-24 10:54:00,858 [INFO] logger: calendar
+2023-03-24 10:54:00,858 [INFO] logger: calendar
+2023-03-24 10:55:00,860 [INFO] logger: calendar
+2023-03-24 10:55:00,860 [INFO] logger: calendar
+2023-03-24 10:55:00,860 [INFO] logger: calendar
+2023-03-24 10:56:00,863 [INFO] logger: calendar
+2023-03-24 10:56:00,863 [INFO] logger: calendar
+2023-03-24 10:56:00,863 [INFO] logger: calendar
+2023-03-24 10:57:00,868 [INFO] logger: calendar
+2023-03-24 10:57:00,868 [INFO] logger: calendar
+2023-03-24 10:57:00,868 [INFO] logger: calendar
+2023-03-24 12:44:42,159 [INFO] logger: Database geactiveerd
+2023-03-24 12:44:42,159 [INFO] logger: Database geactiveerd
+2023-03-24 12:44:42,159 [INFO] logger: Database geactiveerd
+2023-03-24 12:44:44,349 [INFO] logger: Starting application
+2023-03-24 12:44:44,349 [INFO] logger: Starting application
+2023-03-24 12:44:44,349 [INFO] logger: Starting application
+2023-03-24 12:44:44,349 [INFO] logger: Starting application
+2023-03-24 12:44:44,349 [INFO] logger: Starting application
+2023-03-24 12:44:44,351 [INFO] logger: Starting www on port 8080
+2023-03-24 12:44:44,351 [INFO] logger: Starting www on port 8080
+2023-03-24 12:44:44,351 [INFO] logger: Starting www on port 8080
+2023-03-24 12:44:44,351 [INFO] logger: Starting www on port 8080
+2023-03-24 12:44:44,351 [INFO] logger: Starting www on port 8080
+2023-03-24 12:44:44,354 [INFO] logger: Starting api on port 9090
+2023-03-24 12:44:44,354 [INFO] logger: Starting api on port 9090
+2023-03-24 12:44:44,354 [INFO] logger: Starting api on port 9090
+2023-03-24 12:44:44,354 [INFO] logger: Starting api on port 9090
+2023-03-24 12:44:44,354 [INFO] logger: Starting api on port 9090
+2023-03-24 12:44:44,359 [INFO] logger: calendar
+2023-03-24 12:44:44,359 [INFO] logger: calendar
+2023-03-24 12:44:44,359 [INFO] logger: calendar
+2023-03-24 12:44:44,359 [INFO] logger: calendar
+2023-03-24 12:44:44,359 [INFO] logger: calendar
+2023-03-24 12:44:54,364 [INFO] logger: Run Job
+2023-03-24 12:44:54,364 [INFO] logger: Run Job
+2023-03-24 12:44:54,364 [INFO] logger: Run Job
+2023-03-24 12:44:54,364 [INFO] logger: Run Job
+2023-03-24 12:44:54,364 [INFO] logger: Run Job
+2023-03-24 12:45:22,044 [INFO] logger: Database geactiveerd
+2023-03-24 12:45:22,044 [INFO] logger: Database geactiveerd
+2023-03-24 12:45:22,044 [INFO] logger: Database geactiveerd
+2023-03-24 12:45:22,288 [INFO] logger: Starting application
+2023-03-24 12:45:22,288 [INFO] logger: Starting application
+2023-03-24 12:45:22,288 [INFO] logger: Starting application
+2023-03-24 12:45:22,288 [INFO] logger: Starting application
+2023-03-24 12:45:22,288 [INFO] logger: Starting application
+2023-03-24 12:45:22,289 [INFO] logger: Starting www on port 8080
+2023-03-24 12:45:22,289 [INFO] logger: Starting www on port 8080
+2023-03-24 12:45:22,289 [INFO] logger: Starting www on port 8080
+2023-03-24 12:45:22,289 [INFO] logger: Starting www on port 8080
+2023-03-24 12:45:22,289 [INFO] logger: Starting www on port 8080
+2023-03-24 12:45:22,293 [INFO] logger: Starting api on port 9090
+2023-03-24 12:45:22,293 [INFO] logger: Starting api on port 9090
+2023-03-24 12:45:22,293 [INFO] logger: Starting api on port 9090
+2023-03-24 12:45:22,293 [INFO] logger: Starting api on port 9090
+2023-03-24 12:45:22,293 [INFO] logger: Starting api on port 9090
+2023-03-24 12:45:22,297 [INFO] logger: calendar
+2023-03-24 12:45:22,297 [INFO] logger: calendar
+2023-03-24 12:45:22,297 [INFO] logger: calendar
+2023-03-24 12:45:22,297 [INFO] logger: calendar
+2023-03-24 12:45:22,297 [INFO] logger: calendar
+2023-03-24 12:45:32,301 [INFO] logger: Run Job
+2023-03-24 12:45:32,301 [INFO] logger: Run Job
+2023-03-24 12:45:32,301 [INFO] logger: Run Job
+2023-03-24 12:45:32,301 [INFO] logger: Run Job
+2023-03-24 12:45:32,301 [INFO] logger: Run Job
+2023-03-24 12:45:42,307 [INFO] logger: Run Job
+2023-03-24 12:45:42,307 [INFO] logger: Run Job
+2023-03-24 12:45:42,307 [INFO] logger: Run Job
+2023-03-24 12:45:42,307 [INFO] logger: Run Job
+2023-03-24 12:45:42,307 [INFO] logger: Run Job
+2023-03-24 12:45:46,909 [INFO] logger: Database geactiveerd
+2023-03-24 12:45:46,909 [INFO] logger: Database geactiveerd
+2023-03-24 12:45:46,909 [INFO] logger: Database geactiveerd
+2023-03-24 12:45:47,127 [INFO] logger: Starting application
+2023-03-24 12:45:47,127 [INFO] logger: Starting application
+2023-03-24 12:45:47,127 [INFO] logger: Starting application
+2023-03-24 12:45:47,127 [INFO] logger: Starting application
+2023-03-24 12:45:47,127 [INFO] logger: Starting application
+2023-03-24 12:45:47,129 [INFO] logger: Starting www on port 8080
+2023-03-24 12:45:47,129 [INFO] logger: Starting www on port 8080
+2023-03-24 12:45:47,129 [INFO] logger: Starting www on port 8080
+2023-03-24 12:45:47,129 [INFO] logger: Starting www on port 8080
+2023-03-24 12:45:47,129 [INFO] logger: Starting www on port 8080
+2023-03-24 12:45:47,132 [INFO] logger: Starting api on port 9090
+2023-03-24 12:45:47,132 [INFO] logger: Starting api on port 9090
+2023-03-24 12:45:47,132 [INFO] logger: Starting api on port 9090
+2023-03-24 12:45:47,132 [INFO] logger: Starting api on port 9090
+2023-03-24 12:45:47,132 [INFO] logger: Starting api on port 9090
+2023-03-24 12:45:47,136 [INFO] logger: calendar
+2023-03-24 12:45:47,136 [INFO] logger: calendar
+2023-03-24 12:45:47,136 [INFO] logger: calendar
+2023-03-24 12:45:47,136 [INFO] logger: calendar
+2023-03-24 12:45:47,136 [INFO] logger: calendar
+2023-03-24 12:45:57,143 [INFO] logger: Run Job
+2023-03-24 12:45:57,143 [INFO] logger: Run Job
+2023-03-24 12:45:57,143 [INFO] logger: Run Job
+2023-03-24 12:45:57,143 [INFO] logger: Run Job
+2023-03-24 12:45:57,143 [INFO] logger: Run Job
+2023-03-24 12:46:07,150 [INFO] logger: Run Job
+2023-03-24 12:46:07,150 [INFO] logger: Run Job
+2023-03-24 12:46:07,150 [INFO] logger: Run Job
+2023-03-24 12:46:07,150 [INFO] logger: Run Job
+2023-03-24 12:46:07,150 [INFO] logger: Run Job
+2023-03-24 12:46:17,156 [INFO] logger: Run Job
+2023-03-24 12:46:17,156 [INFO] logger: Run Job
+2023-03-24 12:46:17,156 [INFO] logger: Run Job
+2023-03-24 12:46:17,156 [INFO] logger: Run Job
+2023-03-24 12:46:17,156 [INFO] logger: Run Job
+2023-03-24 12:46:27,165 [INFO] logger: Run Job
+2023-03-24 12:46:27,165 [INFO] logger: Run Job
+2023-03-24 12:46:27,165 [INFO] logger: Run Job
+2023-03-24 12:46:27,165 [INFO] logger: Run Job
+2023-03-24 12:46:27,165 [INFO] logger: Run Job
+2023-03-24 12:46:37,171 [INFO] logger: Run Job
+2023-03-24 12:46:37,171 [INFO] logger: Run Job
+2023-03-24 12:46:37,171 [INFO] logger: Run Job
+2023-03-24 12:46:37,171 [INFO] logger: Run Job
+2023-03-24 12:46:37,171 [INFO] logger: Run Job
+2023-03-24 12:46:47,142 [INFO] logger: calendar
+2023-03-24 12:46:47,142 [INFO] logger: calendar
+2023-03-24 12:46:47,142 [INFO] logger: calendar
+2023-03-24 12:46:47,142 [INFO] logger: calendar
+2023-03-24 12:46:47,142 [INFO] logger: calendar
+2023-03-24 12:47:47,144 [INFO] logger: calendar
+2023-03-24 12:47:47,144 [INFO] logger: calendar
+2023-03-24 12:47:47,144 [INFO] logger: calendar
+2023-03-24 12:47:47,144 [INFO] logger: calendar
+2023-03-24 12:47:47,144 [INFO] logger: calendar
+2023-03-24 12:48:47,146 [INFO] logger: calendar
+2023-03-24 12:48:47,146 [INFO] logger: calendar
+2023-03-24 12:48:47,146 [INFO] logger: calendar
+2023-03-24 12:48:47,146 [INFO] logger: calendar
+2023-03-24 12:48:47,146 [INFO] logger: calendar
+2023-03-24 12:49:47,148 [INFO] logger: calendar
+2023-03-24 12:49:47,148 [INFO] logger: calendar
+2023-03-24 12:49:47,148 [INFO] logger: calendar
+2023-03-24 12:49:47,148 [INFO] logger: calendar
+2023-03-24 12:49:47,148 [INFO] logger: calendar
+2023-03-24 12:50:47,149 [INFO] logger: calendar
+2023-03-24 12:50:47,149 [INFO] logger: calendar
+2023-03-24 12:50:47,149 [INFO] logger: calendar
+2023-03-24 12:50:47,149 [INFO] logger: calendar
+2023-03-24 12:50:47,149 [INFO] logger: calendar
+2023-03-24 12:51:47,150 [INFO] logger: calendar
+2023-03-24 12:51:47,150 [INFO] logger: calendar
+2023-03-24 12:51:47,150 [INFO] logger: calendar
+2023-03-24 12:51:47,150 [INFO] logger: calendar
+2023-03-24 12:51:47,150 [INFO] logger: calendar
+2023-03-24 12:52:47,152 [INFO] logger: calendar
+2023-03-24 12:52:47,152 [INFO] logger: calendar
+2023-03-24 12:52:47,152 [INFO] logger: calendar
+2023-03-24 12:52:47,152 [INFO] logger: calendar
+2023-03-24 12:52:47,152 [INFO] logger: calendar
+2023-03-24 12:53:47,153 [INFO] logger: calendar
+2023-03-24 12:53:47,153 [INFO] logger: calendar
+2023-03-24 12:53:47,153 [INFO] logger: calendar
+2023-03-24 12:53:47,153 [INFO] logger: calendar
+2023-03-24 12:53:47,153 [INFO] logger: calendar
+2023-03-24 12:54:47,155 [INFO] logger: calendar
+2023-03-24 12:54:47,155 [INFO] logger: calendar
+2023-03-24 12:54:47,155 [INFO] logger: calendar
+2023-03-24 12:54:47,155 [INFO] logger: calendar
+2023-03-24 12:54:47,155 [INFO] logger: calendar
+2023-03-24 12:55:47,157 [INFO] logger: calendar
+2023-03-24 12:55:47,157 [INFO] logger: calendar
+2023-03-24 12:55:47,157 [INFO] logger: calendar
+2023-03-24 12:55:47,157 [INFO] logger: calendar
+2023-03-24 12:55:47,157 [INFO] logger: calendar
+2023-03-24 12:56:47,159 [INFO] logger: calendar
+2023-03-24 12:56:47,159 [INFO] logger: calendar
+2023-03-24 12:56:47,159 [INFO] logger: calendar
+2023-03-24 12:56:47,159 [INFO] logger: calendar
+2023-03-24 12:56:47,159 [INFO] logger: calendar
+2023-03-24 12:57:47,161 [INFO] logger: calendar
+2023-03-24 12:57:47,161 [INFO] logger: calendar
+2023-03-24 12:57:47,161 [INFO] logger: calendar
+2023-03-24 12:57:47,161 [INFO] logger: calendar
+2023-03-24 12:57:47,161 [INFO] logger: calendar
+2023-03-24 12:58:47,163 [INFO] logger: calendar
+2023-03-24 12:58:47,163 [INFO] logger: calendar
+2023-03-24 12:58:47,163 [INFO] logger: calendar
+2023-03-24 12:58:47,163 [INFO] logger: calendar
+2023-03-24 12:58:47,163 [INFO] logger: calendar
+2023-03-24 12:59:47,164 [INFO] logger: calendar
+2023-03-24 12:59:47,164 [INFO] logger: calendar
+2023-03-24 12:59:47,164 [INFO] logger: calendar
+2023-03-24 12:59:47,164 [INFO] logger: calendar
+2023-03-24 12:59:47,164 [INFO] logger: calendar
+2023-03-24 13:00:47,166 [INFO] logger: calendar
+2023-03-24 13:00:47,166 [INFO] logger: calendar
+2023-03-24 13:00:47,166 [INFO] logger: calendar
+2023-03-24 13:00:47,166 [INFO] logger: calendar
+2023-03-24 13:00:47,166 [INFO] logger: calendar
+2023-03-24 13:01:47,168 [INFO] logger: calendar
+2023-03-24 13:01:47,168 [INFO] logger: calendar
+2023-03-24 13:01:47,168 [INFO] logger: calendar
+2023-03-24 13:01:47,168 [INFO] logger: calendar
+2023-03-24 13:01:47,168 [INFO] logger: calendar
+2023-03-24 13:02:47,170 [INFO] logger: calendar
+2023-03-24 13:02:47,170 [INFO] logger: calendar
+2023-03-24 13:02:47,170 [INFO] logger: calendar
+2023-03-24 13:02:47,170 [INFO] logger: calendar
+2023-03-24 13:02:47,170 [INFO] logger: calendar
+2023-03-24 13:03:47,172 [INFO] logger: calendar
+2023-03-24 13:03:47,172 [INFO] logger: calendar
+2023-03-24 13:03:47,172 [INFO] logger: calendar
+2023-03-24 13:03:47,172 [INFO] logger: calendar
+2023-03-24 13:03:47,172 [INFO] logger: calendar
+2023-03-24 13:04:47,175 [INFO] logger: calendar
+2023-03-24 13:04:47,175 [INFO] logger: calendar
+2023-03-24 13:04:47,175 [INFO] logger: calendar
+2023-03-24 13:04:47,175 [INFO] logger: calendar
+2023-03-24 13:04:47,175 [INFO] logger: calendar
+2023-03-24 13:05:47,178 [INFO] logger: calendar
+2023-03-24 13:05:47,178 [INFO] logger: calendar
+2023-03-24 13:05:47,178 [INFO] logger: calendar
+2023-03-24 13:05:47,178 [INFO] logger: calendar
+2023-03-24 13:05:47,178 [INFO] logger: calendar
+2023-03-24 13:06:47,183 [INFO] logger: calendar
+2023-03-24 13:06:47,183 [INFO] logger: calendar
+2023-03-24 13:06:47,183 [INFO] logger: calendar
+2023-03-24 13:06:47,183 [INFO] logger: calendar
+2023-03-24 13:06:47,183 [INFO] logger: calendar
+2023-03-24 13:07:47,186 [INFO] logger: calendar
+2023-03-24 13:07:47,186 [INFO] logger: calendar
+2023-03-24 13:07:47,186 [INFO] logger: calendar
+2023-03-24 13:07:47,186 [INFO] logger: calendar
+2023-03-24 13:07:47,186 [INFO] logger: calendar
+2023-03-24 13:08:47,189 [INFO] logger: calendar
+2023-03-24 13:08:47,189 [INFO] logger: calendar
+2023-03-24 13:08:47,189 [INFO] logger: calendar
+2023-03-24 13:08:47,189 [INFO] logger: calendar
+2023-03-24 13:08:47,189 [INFO] logger: calendar
+2023-03-24 13:09:47,192 [INFO] logger: calendar
+2023-03-24 13:09:47,192 [INFO] logger: calendar
+2023-03-24 13:09:47,192 [INFO] logger: calendar
+2023-03-24 13:09:47,192 [INFO] logger: calendar
+2023-03-24 13:09:47,192 [INFO] logger: calendar
+2023-03-24 13:10:47,196 [INFO] logger: calendar
+2023-03-24 13:10:47,196 [INFO] logger: calendar
+2023-03-24 13:10:47,196 [INFO] logger: calendar
+2023-03-24 13:10:47,196 [INFO] logger: calendar
+2023-03-24 13:10:47,196 [INFO] logger: calendar
+2023-03-24 13:11:47,200 [INFO] logger: calendar
+2023-03-24 13:11:47,200 [INFO] logger: calendar
+2023-03-24 13:11:47,200 [INFO] logger: calendar
+2023-03-24 13:11:47,200 [INFO] logger: calendar
+2023-03-24 13:11:47,200 [INFO] logger: calendar
+2023-03-24 13:12:47,204 [INFO] logger: calendar
+2023-03-24 13:12:47,204 [INFO] logger: calendar
+2023-03-24 13:12:47,204 [INFO] logger: calendar
+2023-03-24 13:12:47,204 [INFO] logger: calendar
+2023-03-24 13:12:47,204 [INFO] logger: calendar
+2023-03-24 13:13:47,205 [INFO] logger: calendar
+2023-03-24 13:13:47,205 [INFO] logger: calendar
+2023-03-24 13:13:47,205 [INFO] logger: calendar
+2023-03-24 13:13:47,205 [INFO] logger: calendar
+2023-03-24 13:13:47,205 [INFO] logger: calendar
+2023-03-24 13:14:47,207 [INFO] logger: calendar
+2023-03-24 13:14:47,207 [INFO] logger: calendar
+2023-03-24 13:14:47,207 [INFO] logger: calendar
+2023-03-24 13:14:47,207 [INFO] logger: calendar
+2023-03-24 13:14:47,207 [INFO] logger: calendar
+2023-03-24 13:15:47,211 [INFO] logger: calendar
+2023-03-24 13:15:47,211 [INFO] logger: calendar
+2023-03-24 13:15:47,211 [INFO] logger: calendar
+2023-03-24 13:15:47,211 [INFO] logger: calendar
+2023-03-24 13:15:47,211 [INFO] logger: calendar
+2023-03-24 13:16:47,215 [INFO] logger: calendar
+2023-03-24 13:16:47,215 [INFO] logger: calendar
+2023-03-24 13:16:47,215 [INFO] logger: calendar
+2023-03-24 13:16:47,215 [INFO] logger: calendar
+2023-03-24 13:16:47,215 [INFO] logger: calendar
+2023-03-24 13:17:47,218 [INFO] logger: calendar
+2023-03-24 13:17:47,218 [INFO] logger: calendar
+2023-03-24 13:17:47,218 [INFO] logger: calendar
+2023-03-24 13:17:47,218 [INFO] logger: calendar
+2023-03-24 13:17:47,218 [INFO] logger: calendar
+2023-03-24 13:18:47,222 [INFO] logger: calendar
+2023-03-24 13:18:47,222 [INFO] logger: calendar
+2023-03-24 13:18:47,222 [INFO] logger: calendar
+2023-03-24 13:18:47,222 [INFO] logger: calendar
+2023-03-24 13:18:47,222 [INFO] logger: calendar
+2023-03-24 13:19:47,226 [INFO] logger: calendar
+2023-03-24 13:19:47,226 [INFO] logger: calendar
+2023-03-24 13:19:47,226 [INFO] logger: calendar
+2023-03-24 13:19:47,226 [INFO] logger: calendar
+2023-03-24 13:19:47,226 [INFO] logger: calendar
+2023-03-24 13:20:47,229 [INFO] logger: calendar
+2023-03-24 13:20:47,229 [INFO] logger: calendar
+2023-03-24 13:20:47,229 [INFO] logger: calendar
+2023-03-24 13:20:47,229 [INFO] logger: calendar
+2023-03-24 13:20:47,229 [INFO] logger: calendar
+2023-03-24 13:21:47,235 [INFO] logger: calendar
+2023-03-24 13:21:47,235 [INFO] logger: calendar
+2023-03-24 13:21:47,235 [INFO] logger: calendar
+2023-03-24 13:21:47,235 [INFO] logger: calendar
+2023-03-24 13:21:47,235 [INFO] logger: calendar
+2023-03-24 13:22:47,238 [INFO] logger: calendar
+2023-03-24 13:22:47,238 [INFO] logger: calendar
+2023-03-24 13:22:47,238 [INFO] logger: calendar
+2023-03-24 13:22:47,238 [INFO] logger: calendar
+2023-03-24 13:22:47,238 [INFO] logger: calendar
+2023-03-24 13:23:47,241 [INFO] logger: calendar
+2023-03-24 13:23:47,241 [INFO] logger: calendar
+2023-03-24 13:23:47,241 [INFO] logger: calendar
+2023-03-24 13:23:47,241 [INFO] logger: calendar
+2023-03-24 13:23:47,241 [INFO] logger: calendar
+2023-03-24 13:24:47,244 [INFO] logger: calendar
+2023-03-24 13:24:47,244 [INFO] logger: calendar
+2023-03-24 13:24:47,244 [INFO] logger: calendar
+2023-03-24 13:24:47,244 [INFO] logger: calendar
+2023-03-24 13:24:47,244 [INFO] logger: calendar
+2023-03-24 13:25:47,247 [INFO] logger: calendar
+2023-03-24 13:25:47,247 [INFO] logger: calendar
+2023-03-24 13:25:47,247 [INFO] logger: calendar
+2023-03-24 13:25:47,247 [INFO] logger: calendar
+2023-03-24 13:25:47,247 [INFO] logger: calendar
+2023-03-24 13:26:47,249 [INFO] logger: calendar
+2023-03-24 13:26:47,249 [INFO] logger: calendar
+2023-03-24 13:26:47,249 [INFO] logger: calendar
+2023-03-24 13:26:47,249 [INFO] logger: calendar
+2023-03-24 13:26:47,249 [INFO] logger: calendar
+2023-03-24 13:27:08,445 [INFO] logger: Database geactiveerd
+2023-03-24 13:27:08,445 [INFO] logger: Database geactiveerd
+2023-03-24 13:27:08,445 [INFO] logger: Database geactiveerd
+2023-03-24 13:30:07,428 [INFO] logger: Database geactiveerd
+2023-03-24 13:30:07,428 [INFO] logger: Database geactiveerd
+2023-03-24 13:30:07,428 [INFO] logger: Database geactiveerd
+2023-03-24 13:30:07,626 [INFO] logger: Database geactiveerd
+2023-03-24 13:30:07,626 [INFO] logger: Database geactiveerd
+2023-03-24 13:30:07,626 [INFO] logger: Database geactiveerd
+2023-03-24 13:30:07,626 [INFO] logger: Database geactiveerd
+2023-03-24 13:30:07,626 [INFO] logger: Database geactiveerd
+2023-03-24 13:30:07,628 [INFO] logger: Starting application
+2023-03-24 13:30:07,628 [INFO] logger: Starting application
+2023-03-24 13:30:07,628 [INFO] logger: Starting application
+2023-03-24 13:30:07,628 [INFO] logger: Starting application
+2023-03-24 13:30:07,628 [INFO] logger: Starting application
+2023-03-24 13:30:07,628 [INFO] logger: Starting application
+2023-03-24 13:30:07,630 [INFO] logger: Starting www on port 8080
+2023-03-24 13:30:07,630 [INFO] logger: Starting www on port 8080
+2023-03-24 13:30:07,630 [INFO] logger: Starting www on port 8080
+2023-03-24 13:30:07,630 [INFO] logger: Starting www on port 8080
+2023-03-24 13:30:07,630 [INFO] logger: Starting www on port 8080
+2023-03-24 13:30:07,630 [INFO] logger: Starting www on port 8080
+2023-03-24 13:30:07,633 [INFO] logger: Starting api on port 9090
+2023-03-24 13:30:07,633 [INFO] logger: Starting api on port 9090
+2023-03-24 13:30:07,633 [INFO] logger: Starting api on port 9090
+2023-03-24 13:30:07,633 [INFO] logger: Starting api on port 9090
+2023-03-24 13:30:07,633 [INFO] logger: Starting api on port 9090
+2023-03-24 13:30:07,633 [INFO] logger: Starting api on port 9090
+2023-03-24 13:30:07,638 [INFO] logger: calendar
+2023-03-24 13:30:07,638 [INFO] logger: calendar
+2023-03-24 13:30:07,638 [INFO] logger: calendar
+2023-03-24 13:30:07,638 [INFO] logger: calendar
+2023-03-24 13:30:07,638 [INFO] logger: calendar
+2023-03-24 13:30:07,638 [INFO] logger: calendar
+2023-03-24 13:30:13,023 [INFO] logger: Flask show controllerlijst
+2023-03-24 13:30:13,023 [INFO] logger: Flask show controllerlijst
+2023-03-24 13:30:13,023 [INFO] logger: Flask show controllerlijst
+2023-03-24 13:30:13,023 [INFO] logger: Flask show controllerlijst
+2023-03-24 13:30:13,023 [INFO] logger: Flask show controllerlijst
+2023-03-24 13:30:13,023 [INFO] logger: Flask show controllerlijst
+2023-03-24 13:30:17,643 [INFO] logger: Run Job
+2023-03-24 13:30:17,643 [INFO] logger: Run Job
+2023-03-24 13:30:17,643 [INFO] logger: Run Job
+2023-03-24 13:30:17,643 [INFO] logger: Run Job
+2023-03-24 13:30:17,643 [INFO] logger: Run Job
+2023-03-24 13:30:17,643 [INFO] logger: Run Job
+2023-03-24 13:30:27,652 [INFO] logger: Run Job
+2023-03-24 13:30:27,652 [INFO] logger: Run Job
+2023-03-24 13:30:27,652 [INFO] logger: Run Job
+2023-03-24 13:30:27,652 [INFO] logger: Run Job
+2023-03-24 13:30:27,652 [INFO] logger: Run Job
+2023-03-24 13:30:27,652 [INFO] logger: Run Job
+2023-03-24 13:30:37,660 [INFO] logger: Run Job
+2023-03-24 13:30:37,660 [INFO] logger: Run Job
+2023-03-24 13:30:37,660 [INFO] logger: Run Job
+2023-03-24 13:30:37,660 [INFO] logger: Run Job
+2023-03-24 13:30:37,660 [INFO] logger: Run Job
+2023-03-24 13:30:37,660 [INFO] logger: Run Job
+2023-03-24 13:30:47,669 [INFO] logger: Run Job
+2023-03-24 13:30:47,669 [INFO] logger: Run Job
+2023-03-24 13:30:47,669 [INFO] logger: Run Job
+2023-03-24 13:30:47,669 [INFO] logger: Run Job
+2023-03-24 13:30:47,669 [INFO] logger: Run Job
+2023-03-24 13:30:47,669 [INFO] logger: Run Job
+2023-03-24 13:30:57,680 [INFO] logger: Run Job
+2023-03-24 13:30:57,680 [INFO] logger: Run Job
+2023-03-24 13:30:57,680 [INFO] logger: Run Job
+2023-03-24 13:30:57,680 [INFO] logger: Run Job
+2023-03-24 13:30:57,680 [INFO] logger: Run Job
+2023-03-24 13:30:57,680 [INFO] logger: Run Job
+2023-03-24 13:31:07,645 [INFO] logger: calendar
+2023-03-24 13:31:07,645 [INFO] logger: calendar
+2023-03-24 13:31:07,645 [INFO] logger: calendar
+2023-03-24 13:31:07,645 [INFO] logger: calendar
+2023-03-24 13:31:07,645 [INFO] logger: calendar
+2023-03-24 13:31:07,645 [INFO] logger: calendar
+2023-03-24 13:31:16,785 [INFO] logger: Database geactiveerd
+2023-03-24 13:31:16,785 [INFO] logger: Database geactiveerd
+2023-03-24 13:31:16,785 [INFO] logger: Database geactiveerd
+2023-03-24 13:31:16,993 [INFO] logger: Database geactiveerd
+2023-03-24 13:31:16,993 [INFO] logger: Database geactiveerd
+2023-03-24 13:31:16,993 [INFO] logger: Database geactiveerd
+2023-03-24 13:31:16,993 [INFO] logger: Database geactiveerd
+2023-03-24 13:31:16,993 [INFO] logger: Database geactiveerd
+2023-03-24 13:31:16,995 [INFO] logger: Starting application
+2023-03-24 13:31:16,995 [INFO] logger: Starting application
+2023-03-24 13:31:16,995 [INFO] logger: Starting application
+2023-03-24 13:31:16,995 [INFO] logger: Starting application
+2023-03-24 13:31:16,995 [INFO] logger: Starting application
+2023-03-24 13:31:16,995 [INFO] logger: Starting application
+2023-03-24 13:31:16,997 [INFO] logger: Starting www on port 8080
+2023-03-24 13:31:16,997 [INFO] logger: Starting www on port 8080
+2023-03-24 13:31:16,997 [INFO] logger: Starting www on port 8080
+2023-03-24 13:31:16,997 [INFO] logger: Starting www on port 8080
+2023-03-24 13:31:16,997 [INFO] logger: Starting www on port 8080
+2023-03-24 13:31:16,997 [INFO] logger: Starting www on port 8080
+2023-03-24 13:31:17,000 [INFO] logger: Starting api on port 9090
+2023-03-24 13:31:17,000 [INFO] logger: Starting api on port 9090
+2023-03-24 13:31:17,000 [INFO] logger: Starting api on port 9090
+2023-03-24 13:31:17,000 [INFO] logger: Starting api on port 9090
+2023-03-24 13:31:17,000 [INFO] logger: Starting api on port 9090
+2023-03-24 13:31:17,000 [INFO] logger: Starting api on port 9090
+2023-03-24 13:31:17,006 [INFO] logger: calendar
+2023-03-24 13:31:17,006 [INFO] logger: calendar
+2023-03-24 13:31:17,006 [INFO] logger: calendar
+2023-03-24 13:31:17,006 [INFO] logger: calendar
+2023-03-24 13:31:17,006 [INFO] logger: calendar
+2023-03-24 13:31:17,006 [INFO] logger: calendar
+2023-03-24 13:31:20,198 [INFO] logger: Flask show controllerlijst
+2023-03-24 13:31:20,198 [INFO] logger: Flask show controllerlijst
+2023-03-24 13:31:20,198 [INFO] logger: Flask show controllerlijst
+2023-03-24 13:31:20,198 [INFO] logger: Flask show controllerlijst
+2023-03-24 13:31:20,198 [INFO] logger: Flask show controllerlijst
+2023-03-24 13:31:20,198 [INFO] logger: Flask show controllerlijst
+2023-03-24 13:31:27,013 [INFO] logger: Run Job
+2023-03-24 13:31:27,013 [INFO] logger: Run Job
+2023-03-24 13:31:27,013 [INFO] logger: Run Job
+2023-03-24 13:31:27,013 [INFO] logger: Run Job
+2023-03-24 13:31:27,013 [INFO] logger: Run Job
+2023-03-24 13:31:27,013 [INFO] logger: Run Job
+2023-03-24 13:31:33,576 [INFO] logger: Flask show controllerlijst
+2023-03-24 13:31:33,576 [INFO] logger: Flask show controllerlijst
+2023-03-24 13:31:33,576 [INFO] logger: Flask show controllerlijst
+2023-03-24 13:31:33,576 [INFO] logger: Flask show controllerlijst
+2023-03-24 13:31:33,576 [INFO] logger: Flask show controllerlijst
+2023-03-24 13:31:33,576 [INFO] logger: Flask show controllerlijst
+2023-03-24 13:31:37,023 [INFO] logger: Run Job
+2023-03-24 13:31:37,023 [INFO] logger: Run Job
+2023-03-24 13:31:37,023 [INFO] logger: Run Job
+2023-03-24 13:31:37,023 [INFO] logger: Run Job
+2023-03-24 13:31:37,023 [INFO] logger: Run Job
+2023-03-24 13:31:37,023 [INFO] logger: Run Job
+2023-03-24 13:31:47,031 [INFO] logger: Run Job
+2023-03-24 13:31:47,031 [INFO] logger: Run Job
+2023-03-24 13:31:47,031 [INFO] logger: Run Job
+2023-03-24 13:31:47,031 [INFO] logger: Run Job
+2023-03-24 13:31:47,031 [INFO] logger: Run Job
+2023-03-24 13:31:47,031 [INFO] logger: Run Job
+2023-03-24 13:31:57,040 [INFO] logger: Run Job
+2023-03-24 13:31:57,040 [INFO] logger: Run Job
+2023-03-24 13:31:57,040 [INFO] logger: Run Job
+2023-03-24 13:31:57,040 [INFO] logger: Run Job
+2023-03-24 13:31:57,040 [INFO] logger: Run Job
+2023-03-24 13:31:57,040 [INFO] logger: Run Job
+2023-03-24 13:32:07,049 [INFO] logger: Run Job
+2023-03-24 13:32:07,049 [INFO] logger: Run Job
+2023-03-24 13:32:07,049 [INFO] logger: Run Job
+2023-03-24 13:32:07,049 [INFO] logger: Run Job
+2023-03-24 13:32:07,049 [INFO] logger: Run Job
+2023-03-24 13:32:07,049 [INFO] logger: Run Job
+2023-03-24 13:32:17,012 [INFO] logger: calendar
+2023-03-24 13:32:17,012 [INFO] logger: calendar
+2023-03-24 13:32:17,012 [INFO] logger: calendar
+2023-03-24 13:32:17,012 [INFO] logger: calendar
+2023-03-24 13:32:17,012 [INFO] logger: calendar
+2023-03-24 13:32:17,012 [INFO] logger: calendar
+2023-03-24 13:33:17,015 [INFO] logger: calendar
+2023-03-24 13:33:17,015 [INFO] logger: calendar
+2023-03-24 13:33:17,015 [INFO] logger: calendar
+2023-03-24 13:33:17,015 [INFO] logger: calendar
+2023-03-24 13:33:17,015 [INFO] logger: calendar
+2023-03-24 13:33:17,015 [INFO] logger: calendar
+2023-03-24 13:34:17,019 [INFO] logger: calendar
+2023-03-24 13:34:17,019 [INFO] logger: calendar
+2023-03-24 13:34:17,019 [INFO] logger: calendar
+2023-03-24 13:34:17,019 [INFO] logger: calendar
+2023-03-24 13:34:17,019 [INFO] logger: calendar
+2023-03-24 13:34:17,019 [INFO] logger: calendar
+2023-03-24 13:35:17,023 [INFO] logger: calendar
+2023-03-24 13:35:17,023 [INFO] logger: calendar
+2023-03-24 13:35:17,023 [INFO] logger: calendar
+2023-03-24 13:35:17,023 [INFO] logger: calendar
+2023-03-24 13:35:17,023 [INFO] logger: calendar
+2023-03-24 13:35:17,023 [INFO] logger: calendar
+2023-03-24 13:36:17,027 [INFO] logger: calendar
+2023-03-24 13:36:17,027 [INFO] logger: calendar
+2023-03-24 13:36:17,027 [INFO] logger: calendar
+2023-03-24 13:36:17,027 [INFO] logger: calendar
+2023-03-24 13:36:17,027 [INFO] logger: calendar
+2023-03-24 13:36:17,027 [INFO] logger: calendar
+2023-03-24 13:37:17,030 [INFO] logger: calendar
+2023-03-24 13:37:17,030 [INFO] logger: calendar
+2023-03-24 13:37:17,030 [INFO] logger: calendar
+2023-03-24 13:37:17,030 [INFO] logger: calendar
+2023-03-24 13:37:17,030 [INFO] logger: calendar
+2023-03-24 13:37:17,030 [INFO] logger: calendar
+2023-03-24 13:37:49,927 [INFO] logger: Database geactiveerd
+2023-03-24 13:37:49,927 [INFO] logger: Database geactiveerd
+2023-03-24 13:37:49,927 [INFO] logger: Database geactiveerd
+2023-03-24 13:37:50,250 [INFO] logger: Database geactiveerd
+2023-03-24 13:37:50,250 [INFO] logger: Database geactiveerd
+2023-03-24 13:37:50,250 [INFO] logger: Database geactiveerd
+2023-03-24 13:37:50,250 [INFO] logger: Database geactiveerd
+2023-03-24 13:37:50,250 [INFO] logger: Database geactiveerd
+2023-03-24 13:37:50,253 [INFO] logger: Starting application
+2023-03-24 13:37:50,253 [INFO] logger: Starting application
+2023-03-24 13:37:50,253 [INFO] logger: Starting application
+2023-03-24 13:37:50,253 [INFO] logger: Starting application
+2023-03-24 13:37:50,253 [INFO] logger: Starting application
+2023-03-24 13:37:50,253 [INFO] logger: Starting application
+2023-03-24 13:37:50,255 [INFO] logger: Starting www on port 8080
+2023-03-24 13:37:50,255 [INFO] logger: Starting www on port 8080
+2023-03-24 13:37:50,255 [INFO] logger: Starting www on port 8080
+2023-03-24 13:37:50,255 [INFO] logger: Starting www on port 8080
+2023-03-24 13:37:50,255 [INFO] logger: Starting www on port 8080
+2023-03-24 13:37:50,255 [INFO] logger: Starting www on port 8080
+2023-03-24 13:37:50,258 [INFO] logger: Starting api on port 9090
+2023-03-24 13:37:50,258 [INFO] logger: Starting api on port 9090
+2023-03-24 13:37:50,258 [INFO] logger: Starting api on port 9090
+2023-03-24 13:37:50,258 [INFO] logger: Starting api on port 9090
+2023-03-24 13:37:50,258 [INFO] logger: Starting api on port 9090
+2023-03-24 13:37:50,258 [INFO] logger: Starting api on port 9090
+2023-03-24 13:37:50,263 [INFO] logger: calendar
+2023-03-24 13:37:50,263 [INFO] logger: calendar
+2023-03-24 13:37:50,263 [INFO] logger: calendar
+2023-03-24 13:37:50,263 [INFO] logger: calendar
+2023-03-24 13:37:50,263 [INFO] logger: calendar
+2023-03-24 13:37:50,263 [INFO] logger: calendar
+2023-03-24 13:38:00,269 [INFO] logger: Run Job
+2023-03-24 13:38:00,269 [INFO] logger: Run Job
+2023-03-24 13:38:00,269 [INFO] logger: Run Job
+2023-03-24 13:38:00,269 [INFO] logger: Run Job
+2023-03-24 13:38:00,269 [INFO] logger: Run Job
+2023-03-24 13:38:00,269 [INFO] logger: Run Job
+2023-03-24 13:38:10,280 [INFO] logger: Run Job
+2023-03-24 13:38:10,280 [INFO] logger: Run Job
+2023-03-24 13:38:10,280 [INFO] logger: Run Job
+2023-03-24 13:38:10,280 [INFO] logger: Run Job
+2023-03-24 13:38:10,280 [INFO] logger: Run Job
+2023-03-24 13:38:10,280 [INFO] logger: Run Job
+2023-03-24 13:38:20,288 [INFO] logger: Run Job
+2023-03-24 13:38:20,288 [INFO] logger: Run Job
+2023-03-24 13:38:20,288 [INFO] logger: Run Job
+2023-03-24 13:38:20,288 [INFO] logger: Run Job
+2023-03-24 13:38:20,288 [INFO] logger: Run Job
+2023-03-24 13:38:20,288 [INFO] logger: Run Job
+2023-03-24 13:38:30,297 [INFO] logger: Run Job
+2023-03-24 13:38:30,297 [INFO] logger: Run Job
+2023-03-24 13:38:30,297 [INFO] logger: Run Job
+2023-03-24 13:38:30,297 [INFO] logger: Run Job
+2023-03-24 13:38:30,297 [INFO] logger: Run Job
+2023-03-24 13:38:30,297 [INFO] logger: Run Job
+2023-03-24 13:38:40,308 [INFO] logger: Run Job
+2023-03-24 13:38:40,308 [INFO] logger: Run Job
+2023-03-24 13:38:40,308 [INFO] logger: Run Job
+2023-03-24 13:38:40,308 [INFO] logger: Run Job
+2023-03-24 13:38:40,308 [INFO] logger: Run Job
+2023-03-24 13:38:40,308 [INFO] logger: Run Job
+2023-03-24 13:38:50,271 [INFO] logger: calendar
+2023-03-24 13:38:50,271 [INFO] logger: calendar
+2023-03-24 13:38:50,271 [INFO] logger: calendar
+2023-03-24 13:38:50,271 [INFO] logger: calendar
+2023-03-24 13:38:50,271 [INFO] logger: calendar
+2023-03-24 13:38:50,271 [INFO] logger: calendar
+2023-03-24 13:39:50,274 [INFO] logger: calendar
+2023-03-24 13:39:50,274 [INFO] logger: calendar
+2023-03-24 13:39:50,274 [INFO] logger: calendar
+2023-03-24 13:39:50,274 [INFO] logger: calendar
+2023-03-24 13:39:50,274 [INFO] logger: calendar
+2023-03-24 13:39:50,274 [INFO] logger: calendar
+2023-03-24 13:40:50,277 [INFO] logger: calendar
+2023-03-24 13:40:50,277 [INFO] logger: calendar
+2023-03-24 13:40:50,277 [INFO] logger: calendar
+2023-03-24 13:40:50,277 [INFO] logger: calendar
+2023-03-24 13:40:50,277 [INFO] logger: calendar
+2023-03-24 13:40:50,277 [INFO] logger: calendar
+2023-03-24 13:41:50,281 [INFO] logger: calendar
+2023-03-24 13:41:50,281 [INFO] logger: calendar
+2023-03-24 13:41:50,281 [INFO] logger: calendar
+2023-03-24 13:41:50,281 [INFO] logger: calendar
+2023-03-24 13:41:50,281 [INFO] logger: calendar
+2023-03-24 13:41:50,281 [INFO] logger: calendar
+2023-03-24 13:42:50,290 [INFO] logger: calendar
+2023-03-24 13:42:50,290 [INFO] logger: calendar
+2023-03-24 13:42:50,290 [INFO] logger: calendar
+2023-03-24 13:42:50,290 [INFO] logger: calendar
+2023-03-24 13:42:50,290 [INFO] logger: calendar
+2023-03-24 13:42:50,290 [INFO] logger: calendar
+2023-03-24 13:43:11,936 [INFO] logger: Database geactiveerd
+2023-03-24 13:43:11,936 [INFO] logger: Database geactiveerd
+2023-03-24 13:43:11,936 [INFO] logger: Database geactiveerd
+2023-03-24 13:43:12,296 [INFO] logger: Database geactiveerd
+2023-03-24 13:43:12,296 [INFO] logger: Database geactiveerd
+2023-03-24 13:43:12,296 [INFO] logger: Database geactiveerd
+2023-03-24 13:43:12,296 [INFO] logger: Database geactiveerd
+2023-03-24 13:43:12,296 [INFO] logger: Database geactiveerd
+2023-03-24 13:43:12,299 [INFO] logger: Starting application
+2023-03-24 13:43:12,299 [INFO] logger: Starting application
+2023-03-24 13:43:12,299 [INFO] logger: Starting application
+2023-03-24 13:43:12,299 [INFO] logger: Starting application
+2023-03-24 13:43:12,299 [INFO] logger: Starting application
+2023-03-24 13:43:12,299 [INFO] logger: Starting application
+2023-03-24 13:43:12,302 [INFO] logger: Starting www on port 8080
+2023-03-24 13:43:12,302 [INFO] logger: Starting www on port 8080
+2023-03-24 13:43:12,302 [INFO] logger: Starting www on port 8080
+2023-03-24 13:43:12,302 [INFO] logger: Starting www on port 8080
+2023-03-24 13:43:12,302 [INFO] logger: Starting www on port 8080
+2023-03-24 13:43:12,302 [INFO] logger: Starting www on port 8080
+2023-03-24 13:43:12,307 [INFO] logger: Starting api on port 9090
+2023-03-24 13:43:12,307 [INFO] logger: Starting api on port 9090
+2023-03-24 13:43:12,307 [INFO] logger: Starting api on port 9090
+2023-03-24 13:43:12,307 [INFO] logger: Starting api on port 9090
+2023-03-24 13:43:12,307 [INFO] logger: Starting api on port 9090
+2023-03-24 13:43:12,307 [INFO] logger: Starting api on port 9090
+2023-03-24 13:43:12,314 [INFO] logger: calendar
+2023-03-24 13:43:12,314 [INFO] logger: calendar
+2023-03-24 13:43:12,314 [INFO] logger: calendar
+2023-03-24 13:43:12,314 [INFO] logger: calendar
+2023-03-24 13:43:12,314 [INFO] logger: calendar
+2023-03-24 13:43:12,314 [INFO] logger: calendar
+2023-03-24 13:43:22,319 [INFO] logger: Run Job
+2023-03-24 13:43:22,319 [INFO] logger: Run Job
+2023-03-24 13:43:22,319 [INFO] logger: Run Job
+2023-03-24 13:43:22,319 [INFO] logger: Run Job
+2023-03-24 13:43:22,319 [INFO] logger: Run Job
+2023-03-24 13:43:22,319 [INFO] logger: Run Job
+2023-03-24 13:43:32,329 [INFO] logger: Run Job
+2023-03-24 13:43:32,329 [INFO] logger: Run Job
+2023-03-24 13:43:32,329 [INFO] logger: Run Job
+2023-03-24 13:43:32,329 [INFO] logger: Run Job
+2023-03-24 13:43:32,329 [INFO] logger: Run Job
+2023-03-24 13:43:32,329 [INFO] logger: Run Job
+2023-03-24 13:43:42,337 [INFO] logger: Run Job
+2023-03-24 13:43:42,337 [INFO] logger: Run Job
+2023-03-24 13:43:42,337 [INFO] logger: Run Job
+2023-03-24 13:43:42,337 [INFO] logger: Run Job
+2023-03-24 13:43:42,337 [INFO] logger: Run Job
+2023-03-24 13:43:42,337 [INFO] logger: Run Job
+2023-03-24 13:43:52,346 [INFO] logger: Run Job
+2023-03-24 13:43:52,346 [INFO] logger: Run Job
+2023-03-24 13:43:52,346 [INFO] logger: Run Job
+2023-03-24 13:43:52,346 [INFO] logger: Run Job
+2023-03-24 13:43:52,346 [INFO] logger: Run Job
+2023-03-24 13:43:52,346 [INFO] logger: Run Job
+2023-03-24 13:44:02,356 [INFO] logger: Run Job
+2023-03-24 13:44:02,356 [INFO] logger: Run Job
+2023-03-24 13:44:02,356 [INFO] logger: Run Job
+2023-03-24 13:44:02,356 [INFO] logger: Run Job
+2023-03-24 13:44:02,356 [INFO] logger: Run Job
+2023-03-24 13:44:02,356 [INFO] logger: Run Job
+2023-03-24 13:44:12,322 [INFO] logger: calendar
+2023-03-24 13:44:12,322 [INFO] logger: calendar
+2023-03-24 13:44:12,322 [INFO] logger: calendar
+2023-03-24 13:44:12,322 [INFO] logger: calendar
+2023-03-24 13:44:12,322 [INFO] logger: calendar
+2023-03-24 13:44:12,322 [INFO] logger: calendar
+2023-03-24 13:45:12,326 [INFO] logger: calendar
+2023-03-24 13:45:12,326 [INFO] logger: calendar
+2023-03-24 13:45:12,326 [INFO] logger: calendar
+2023-03-24 13:45:12,326 [INFO] logger: calendar
+2023-03-24 13:45:12,326 [INFO] logger: calendar
+2023-03-24 13:45:12,326 [INFO] logger: calendar
+2023-03-24 13:46:12,330 [INFO] logger: calendar
+2023-03-24 13:46:12,330 [INFO] logger: calendar
+2023-03-24 13:46:12,330 [INFO] logger: calendar
+2023-03-24 13:46:12,330 [INFO] logger: calendar
+2023-03-24 13:46:12,330 [INFO] logger: calendar
+2023-03-24 13:46:12,330 [INFO] logger: calendar
+2023-03-24 13:47:12,334 [INFO] logger: calendar
+2023-03-24 13:47:12,334 [INFO] logger: calendar
+2023-03-24 13:47:12,334 [INFO] logger: calendar
+2023-03-24 13:47:12,334 [INFO] logger: calendar
+2023-03-24 13:47:12,334 [INFO] logger: calendar
+2023-03-24 13:47:12,334 [INFO] logger: calendar
+2023-03-24 13:48:12,338 [INFO] logger: calendar
+2023-03-24 13:48:12,338 [INFO] logger: calendar
+2023-03-24 13:48:12,338 [INFO] logger: calendar
+2023-03-24 13:48:12,338 [INFO] logger: calendar
+2023-03-24 13:48:12,338 [INFO] logger: calendar
+2023-03-24 13:48:12,338 [INFO] logger: calendar
+2023-03-24 13:49:14,566 [INFO] logger: Database geactiveerd
+2023-03-24 13:49:14,566 [INFO] logger: Database geactiveerd
+2023-03-24 13:49:14,566 [INFO] logger: Database geactiveerd
+2023-03-24 13:49:16,922 [INFO] logger: Database geactiveerd
+2023-03-24 13:49:16,922 [INFO] logger: Database geactiveerd
+2023-03-24 13:49:16,922 [INFO] logger: Database geactiveerd
+2023-03-24 13:49:16,922 [INFO] logger: Database geactiveerd
+2023-03-24 13:49:16,922 [INFO] logger: Database geactiveerd
+2023-03-24 13:49:16,924 [INFO] logger: Starting application
+2023-03-24 13:49:16,924 [INFO] logger: Starting application
+2023-03-24 13:49:16,924 [INFO] logger: Starting application
+2023-03-24 13:49:16,924 [INFO] logger: Starting application
+2023-03-24 13:49:16,924 [INFO] logger: Starting application
+2023-03-24 13:49:16,924 [INFO] logger: Starting application
+2023-03-24 13:49:16,926 [INFO] logger: Starting www on port 8080
+2023-03-24 13:49:16,926 [INFO] logger: Starting www on port 8080
+2023-03-24 13:49:16,926 [INFO] logger: Starting www on port 8080
+2023-03-24 13:49:16,926 [INFO] logger: Starting www on port 8080
+2023-03-24 13:49:16,926 [INFO] logger: Starting www on port 8080
+2023-03-24 13:49:16,926 [INFO] logger: Starting www on port 8080
+2023-03-24 13:49:16,929 [INFO] logger: Starting api on port 9090
+2023-03-24 13:49:16,929 [INFO] logger: Starting api on port 9090
+2023-03-24 13:49:16,929 [INFO] logger: Starting api on port 9090
+2023-03-24 13:49:16,929 [INFO] logger: Starting api on port 9090
+2023-03-24 13:49:16,929 [INFO] logger: Starting api on port 9090
+2023-03-24 13:49:16,929 [INFO] logger: Starting api on port 9090
+2023-03-24 13:49:16,934 [INFO] logger: calendar
+2023-03-24 13:49:16,934 [INFO] logger: calendar
+2023-03-24 13:49:16,934 [INFO] logger: calendar
+2023-03-24 13:49:16,934 [INFO] logger: calendar
+2023-03-24 13:49:16,934 [INFO] logger: calendar
+2023-03-24 13:49:16,934 [INFO] logger: calendar
+2023-03-24 13:49:26,940 [INFO] logger: Run Job
+2023-03-24 13:49:26,940 [INFO] logger: Run Job
+2023-03-24 13:49:26,940 [INFO] logger: Run Job
+2023-03-24 13:49:26,940 [INFO] logger: Run Job
+2023-03-24 13:49:26,940 [INFO] logger: Run Job
+2023-03-24 13:49:26,940 [INFO] logger: Run Job
+2023-03-24 13:49:36,948 [INFO] logger: Run Job
+2023-03-24 13:49:36,948 [INFO] logger: Run Job
+2023-03-24 13:49:36,948 [INFO] logger: Run Job
+2023-03-24 13:49:36,948 [INFO] logger: Run Job
+2023-03-24 13:49:36,948 [INFO] logger: Run Job
+2023-03-24 13:49:36,948 [INFO] logger: Run Job
+2023-03-24 13:49:46,958 [INFO] logger: Run Job
+2023-03-24 13:49:46,958 [INFO] logger: Run Job
+2023-03-24 13:49:46,958 [INFO] logger: Run Job
+2023-03-24 13:49:46,958 [INFO] logger: Run Job
+2023-03-24 13:49:46,958 [INFO] logger: Run Job
+2023-03-24 13:49:46,958 [INFO] logger: Run Job
+2023-03-24 13:49:56,968 [INFO] logger: Run Job
+2023-03-24 13:49:56,968 [INFO] logger: Run Job
+2023-03-24 13:49:56,968 [INFO] logger: Run Job
+2023-03-24 13:49:56,968 [INFO] logger: Run Job
+2023-03-24 13:49:56,968 [INFO] logger: Run Job
+2023-03-24 13:49:56,968 [INFO] logger: Run Job
+2023-03-24 13:50:06,977 [INFO] logger: Run Job
+2023-03-24 13:50:06,977 [INFO] logger: Run Job
+2023-03-24 13:50:06,977 [INFO] logger: Run Job
+2023-03-24 13:50:06,977 [INFO] logger: Run Job
+2023-03-24 13:50:06,977 [INFO] logger: Run Job
+2023-03-24 13:50:06,977 [INFO] logger: Run Job
+2023-03-24 13:50:16,939 [INFO] logger: calendar
+2023-03-24 13:50:16,939 [INFO] logger: calendar
+2023-03-24 13:50:16,939 [INFO] logger: calendar
+2023-03-24 13:50:16,939 [INFO] logger: calendar
+2023-03-24 13:50:16,939 [INFO] logger: calendar
+2023-03-24 13:50:16,939 [INFO] logger: calendar
+2023-03-24 13:50:50,087 [INFO] logger: Database geactiveerd
+2023-03-24 13:50:50,087 [INFO] logger: Database geactiveerd
+2023-03-24 13:50:50,087 [INFO] logger: Database geactiveerd
+2023-03-24 13:50:50,287 [INFO] logger: Database geactiveerd
+2023-03-24 13:50:50,287 [INFO] logger: Database geactiveerd
+2023-03-24 13:50:50,287 [INFO] logger: Database geactiveerd
+2023-03-24 13:50:50,287 [INFO] logger: Database geactiveerd
+2023-03-24 13:50:50,287 [INFO] logger: Database geactiveerd
+2023-03-24 13:50:50,289 [INFO] logger: Starting application
+2023-03-24 13:50:50,289 [INFO] logger: Starting application
+2023-03-24 13:50:50,289 [INFO] logger: Starting application
+2023-03-24 13:50:50,289 [INFO] logger: Starting application
+2023-03-24 13:50:50,289 [INFO] logger: Starting application
+2023-03-24 13:50:50,289 [INFO] logger: Starting application
+2023-03-24 13:50:50,291 [INFO] logger: Starting www on port 8080
+2023-03-24 13:50:50,291 [INFO] logger: Starting www on port 8080
+2023-03-24 13:50:50,291 [INFO] logger: Starting www on port 8080
+2023-03-24 13:50:50,291 [INFO] logger: Starting www on port 8080
+2023-03-24 13:50:50,291 [INFO] logger: Starting www on port 8080
+2023-03-24 13:50:50,291 [INFO] logger: Starting www on port 8080
+2023-03-24 13:50:50,295 [INFO] logger: Starting api on port 9090
+2023-03-24 13:50:50,295 [INFO] logger: Starting api on port 9090
+2023-03-24 13:50:50,295 [INFO] logger: Starting api on port 9090
+2023-03-24 13:50:50,295 [INFO] logger: Starting api on port 9090
+2023-03-24 13:50:50,295 [INFO] logger: Starting api on port 9090
+2023-03-24 13:50:50,295 [INFO] logger: Starting api on port 9090
+2023-03-24 13:50:50,299 [INFO] logger: calendar
+2023-03-24 13:50:50,299 [INFO] logger: calendar
+2023-03-24 13:50:50,299 [INFO] logger: calendar
+2023-03-24 13:50:50,299 [INFO] logger: calendar
+2023-03-24 13:50:50,299 [INFO] logger: calendar
+2023-03-24 13:50:50,299 [INFO] logger: calendar
+2023-03-24 13:51:00,306 [INFO] logger: Run Job
+2023-03-24 13:51:00,306 [INFO] logger: Run Job
+2023-03-24 13:51:00,306 [INFO] logger: Run Job
+2023-03-24 13:51:00,306 [INFO] logger: Run Job
+2023-03-24 13:51:00,306 [INFO] logger: Run Job
+2023-03-24 13:51:00,306 [INFO] logger: Run Job
+2023-03-24 13:51:10,315 [INFO] logger: Run Job
+2023-03-24 13:51:10,315 [INFO] logger: Run Job
+2023-03-24 13:51:10,315 [INFO] logger: Run Job
+2023-03-24 13:51:10,315 [INFO] logger: Run Job
+2023-03-24 13:51:10,315 [INFO] logger: Run Job
+2023-03-24 13:51:10,315 [INFO] logger: Run Job
+2023-03-24 13:51:20,323 [INFO] logger: Run Job
+2023-03-24 13:51:20,323 [INFO] logger: Run Job
+2023-03-24 13:51:20,323 [INFO] logger: Run Job
+2023-03-24 13:51:20,323 [INFO] logger: Run Job
+2023-03-24 13:51:20,323 [INFO] logger: Run Job
+2023-03-24 13:51:20,323 [INFO] logger: Run Job
+2023-03-24 13:51:30,338 [INFO] logger: Run Job
+2023-03-24 13:51:30,338 [INFO] logger: Run Job
+2023-03-24 13:51:30,338 [INFO] logger: Run Job
+2023-03-24 13:51:30,338 [INFO] logger: Run Job
+2023-03-24 13:51:30,338 [INFO] logger: Run Job
+2023-03-24 13:51:30,338 [INFO] logger: Run Job
+2023-03-24 13:51:40,347 [INFO] logger: Run Job
+2023-03-24 13:51:40,347 [INFO] logger: Run Job
+2023-03-24 13:51:40,347 [INFO] logger: Run Job
+2023-03-24 13:51:40,347 [INFO] logger: Run Job
+2023-03-24 13:51:40,347 [INFO] logger: Run Job
+2023-03-24 13:51:40,347 [INFO] logger: Run Job
+2023-03-24 13:51:50,307 [INFO] logger: calendar
+2023-03-24 13:51:50,307 [INFO] logger: calendar
+2023-03-24 13:51:50,307 [INFO] logger: calendar
+2023-03-24 13:51:50,307 [INFO] logger: calendar
+2023-03-24 13:51:50,307 [INFO] logger: calendar
+2023-03-24 13:51:50,307 [INFO] logger: calendar
+2023-03-24 13:52:50,309 [INFO] logger: calendar
+2023-03-24 13:52:50,309 [INFO] logger: calendar
+2023-03-24 13:52:50,309 [INFO] logger: calendar
+2023-03-24 13:52:50,309 [INFO] logger: calendar
+2023-03-24 13:52:50,309 [INFO] logger: calendar
+2023-03-24 13:52:50,309 [INFO] logger: calendar
+2023-03-24 13:53:50,312 [INFO] logger: calendar
+2023-03-24 13:53:50,312 [INFO] logger: calendar
+2023-03-24 13:53:50,312 [INFO] logger: calendar
+2023-03-24 13:53:50,312 [INFO] logger: calendar
+2023-03-24 13:53:50,312 [INFO] logger: calendar
+2023-03-24 13:53:50,312 [INFO] logger: calendar
+2023-03-24 13:54:50,316 [INFO] logger: calendar
+2023-03-24 13:54:50,316 [INFO] logger: calendar
+2023-03-24 13:54:50,316 [INFO] logger: calendar
+2023-03-24 13:54:50,316 [INFO] logger: calendar
+2023-03-24 13:54:50,316 [INFO] logger: calendar
+2023-03-24 13:54:50,316 [INFO] logger: calendar
+2023-03-24 13:55:50,320 [INFO] logger: calendar
+2023-03-24 13:55:50,320 [INFO] logger: calendar
+2023-03-24 13:55:50,320 [INFO] logger: calendar
+2023-03-24 13:55:50,320 [INFO] logger: calendar
+2023-03-24 13:55:50,320 [INFO] logger: calendar
+2023-03-24 13:55:50,320 [INFO] logger: calendar
+2023-03-24 13:56:50,323 [INFO] logger: calendar
+2023-03-24 13:56:50,323 [INFO] logger: calendar
+2023-03-24 13:56:50,323 [INFO] logger: calendar
+2023-03-24 13:56:50,323 [INFO] logger: calendar
+2023-03-24 13:56:50,323 [INFO] logger: calendar
+2023-03-24 13:56:50,323 [INFO] logger: calendar
+2023-03-24 13:57:50,327 [INFO] logger: calendar
+2023-03-24 13:57:50,327 [INFO] logger: calendar
+2023-03-24 13:57:50,327 [INFO] logger: calendar
+2023-03-24 13:57:50,327 [INFO] logger: calendar
+2023-03-24 13:57:50,327 [INFO] logger: calendar
+2023-03-24 13:57:50,327 [INFO] logger: calendar
+2023-03-24 13:58:50,331 [INFO] logger: calendar
+2023-03-24 13:58:50,331 [INFO] logger: calendar
+2023-03-24 13:58:50,331 [INFO] logger: calendar
+2023-03-24 13:58:50,331 [INFO] logger: calendar
+2023-03-24 13:58:50,331 [INFO] logger: calendar
+2023-03-24 13:58:50,331 [INFO] logger: calendar
+2023-03-24 13:59:50,334 [INFO] logger: calendar
+2023-03-24 13:59:50,334 [INFO] logger: calendar
+2023-03-24 13:59:50,334 [INFO] logger: calendar
+2023-03-24 13:59:50,334 [INFO] logger: calendar
+2023-03-24 13:59:50,334 [INFO] logger: calendar
+2023-03-24 13:59:50,334 [INFO] logger: calendar
+2023-03-24 14:00:50,338 [INFO] logger: calendar
+2023-03-24 14:00:50,338 [INFO] logger: calendar
+2023-03-24 14:00:50,338 [INFO] logger: calendar
+2023-03-24 14:00:50,338 [INFO] logger: calendar
+2023-03-24 14:00:50,338 [INFO] logger: calendar
+2023-03-24 14:00:50,338 [INFO] logger: calendar
+2023-03-24 14:01:50,341 [INFO] logger: calendar
+2023-03-24 14:01:50,341 [INFO] logger: calendar
+2023-03-24 14:01:50,341 [INFO] logger: calendar
+2023-03-24 14:01:50,341 [INFO] logger: calendar
+2023-03-24 14:01:50,341 [INFO] logger: calendar
+2023-03-24 14:01:50,341 [INFO] logger: calendar
+2023-03-24 14:02:50,345 [INFO] logger: calendar
+2023-03-24 14:02:50,345 [INFO] logger: calendar
+2023-03-24 14:02:50,345 [INFO] logger: calendar
+2023-03-24 14:02:50,345 [INFO] logger: calendar
+2023-03-24 14:02:50,345 [INFO] logger: calendar
+2023-03-24 14:02:50,345 [INFO] logger: calendar
+2023-03-24 14:03:50,348 [INFO] logger: calendar
+2023-03-24 14:03:50,348 [INFO] logger: calendar
+2023-03-24 14:03:50,348 [INFO] logger: calendar
+2023-03-24 14:03:50,348 [INFO] logger: calendar
+2023-03-24 14:03:50,348 [INFO] logger: calendar
+2023-03-24 14:03:50,348 [INFO] logger: calendar
+2023-03-24 14:04:50,352 [INFO] logger: calendar
+2023-03-24 14:04:50,352 [INFO] logger: calendar
+2023-03-24 14:04:50,352 [INFO] logger: calendar
+2023-03-24 14:04:50,352 [INFO] logger: calendar
+2023-03-24 14:04:50,352 [INFO] logger: calendar
+2023-03-24 14:04:50,352 [INFO] logger: calendar
+2023-03-24 14:05:50,356 [INFO] logger: calendar
+2023-03-24 14:05:50,356 [INFO] logger: calendar
+2023-03-24 14:05:50,356 [INFO] logger: calendar
+2023-03-24 14:05:50,356 [INFO] logger: calendar
+2023-03-24 14:05:50,356 [INFO] logger: calendar
+2023-03-24 14:05:50,356 [INFO] logger: calendar
+2023-03-24 14:06:50,360 [INFO] logger: calendar
+2023-03-24 14:06:50,360 [INFO] logger: calendar
+2023-03-24 14:06:50,360 [INFO] logger: calendar
+2023-03-24 14:06:50,360 [INFO] logger: calendar
+2023-03-24 14:06:50,360 [INFO] logger: calendar
+2023-03-24 14:06:50,360 [INFO] logger: calendar
+2023-03-24 14:07:50,364 [INFO] logger: calendar
+2023-03-24 14:07:50,364 [INFO] logger: calendar
+2023-03-24 14:07:50,364 [INFO] logger: calendar
+2023-03-24 14:07:50,364 [INFO] logger: calendar
+2023-03-24 14:07:50,364 [INFO] logger: calendar
+2023-03-24 14:07:50,364 [INFO] logger: calendar
+2023-03-24 14:08:50,367 [INFO] logger: calendar
+2023-03-24 14:08:50,367 [INFO] logger: calendar
+2023-03-24 14:08:50,367 [INFO] logger: calendar
+2023-03-24 14:08:50,367 [INFO] logger: calendar
+2023-03-24 14:08:50,367 [INFO] logger: calendar
+2023-03-24 14:08:50,367 [INFO] logger: calendar
+2023-03-24 14:09:50,369 [INFO] logger: calendar
+2023-03-24 14:09:50,369 [INFO] logger: calendar
+2023-03-24 14:09:50,369 [INFO] logger: calendar
+2023-03-24 14:09:50,369 [INFO] logger: calendar
+2023-03-24 14:09:50,369 [INFO] logger: calendar
+2023-03-24 14:09:50,369 [INFO] logger: calendar
+2023-03-24 14:10:50,373 [INFO] logger: calendar
+2023-03-24 14:10:50,373 [INFO] logger: calendar
+2023-03-24 14:10:50,373 [INFO] logger: calendar
+2023-03-24 14:10:50,373 [INFO] logger: calendar
+2023-03-24 14:10:50,373 [INFO] logger: calendar
+2023-03-24 14:10:50,373 [INFO] logger: calendar
+2023-03-24 14:11:50,376 [INFO] logger: calendar
+2023-03-24 14:11:50,376 [INFO] logger: calendar
+2023-03-24 14:11:50,376 [INFO] logger: calendar
+2023-03-24 14:11:50,376 [INFO] logger: calendar
+2023-03-24 14:11:50,376 [INFO] logger: calendar
+2023-03-24 14:11:50,376 [INFO] logger: calendar
+2023-03-24 14:12:41,101 [INFO] logger: Database geactiveerd
+2023-03-24 14:12:41,101 [INFO] logger: Database geactiveerd
+2023-03-24 14:12:41,101 [INFO] logger: Database geactiveerd
+2023-03-24 14:12:41,452 [INFO] logger: Database geactiveerd
+2023-03-24 14:12:41,452 [INFO] logger: Database geactiveerd
+2023-03-24 14:12:41,452 [INFO] logger: Database geactiveerd
+2023-03-24 14:12:41,452 [INFO] logger: Database geactiveerd
+2023-03-24 14:12:41,452 [INFO] logger: Database geactiveerd
+2023-03-24 14:12:41,456 [INFO] logger: Starting application
+2023-03-24 14:12:41,456 [INFO] logger: Starting application
+2023-03-24 14:12:41,456 [INFO] logger: Starting application
+2023-03-24 14:12:41,456 [INFO] logger: Starting application
+2023-03-24 14:12:41,456 [INFO] logger: Starting application
+2023-03-24 14:12:41,456 [INFO] logger: Starting application
+2023-03-24 14:12:41,459 [INFO] logger: Starting www on port 8080
+2023-03-24 14:12:41,459 [INFO] logger: Starting www on port 8080
+2023-03-24 14:12:41,459 [INFO] logger: Starting www on port 8080
+2023-03-24 14:12:41,459 [INFO] logger: Starting www on port 8080
+2023-03-24 14:12:41,459 [INFO] logger: Starting www on port 8080
+2023-03-24 14:12:41,459 [INFO] logger: Starting www on port 8080
+2023-03-24 14:12:41,462 [INFO] logger: Starting api on port 9090
+2023-03-24 14:12:41,462 [INFO] logger: Starting api on port 9090
+2023-03-24 14:12:41,462 [INFO] logger: Starting api on port 9090
+2023-03-24 14:12:41,462 [INFO] logger: Starting api on port 9090
+2023-03-24 14:12:41,462 [INFO] logger: Starting api on port 9090
+2023-03-24 14:12:41,462 [INFO] logger: Starting api on port 9090
+2023-03-24 14:12:41,467 [INFO] logger: calendar
+2023-03-24 14:12:41,467 [INFO] logger: calendar
+2023-03-24 14:12:41,467 [INFO] logger: calendar
+2023-03-24 14:12:41,467 [INFO] logger: calendar
+2023-03-24 14:12:41,467 [INFO] logger: calendar
+2023-03-24 14:12:41,467 [INFO] logger: calendar
+2023-03-24 14:12:51,473 [INFO] logger: Run Job
+2023-03-24 14:12:51,473 [INFO] logger: Run Job
+2023-03-24 14:12:51,473 [INFO] logger: Run Job
+2023-03-24 14:12:51,473 [INFO] logger: Run Job
+2023-03-24 14:12:51,473 [INFO] logger: Run Job
+2023-03-24 14:12:51,473 [INFO] logger: Run Job
+2023-03-24 14:13:01,481 [INFO] logger: Run Job
+2023-03-24 14:13:01,481 [INFO] logger: Run Job
+2023-03-24 14:13:01,481 [INFO] logger: Run Job
+2023-03-24 14:13:01,481 [INFO] logger: Run Job
+2023-03-24 14:13:01,481 [INFO] logger: Run Job
+2023-03-24 14:13:01,481 [INFO] logger: Run Job
+2023-03-24 14:13:11,492 [INFO] logger: Run Job
+2023-03-24 14:13:11,492 [INFO] logger: Run Job
+2023-03-24 14:13:11,492 [INFO] logger: Run Job
+2023-03-24 14:13:11,492 [INFO] logger: Run Job
+2023-03-24 14:13:11,492 [INFO] logger: Run Job
+2023-03-24 14:13:11,492 [INFO] logger: Run Job
+2023-03-24 14:13:21,501 [INFO] logger: Run Job
+2023-03-24 14:13:21,501 [INFO] logger: Run Job
+2023-03-24 14:13:21,501 [INFO] logger: Run Job
+2023-03-24 14:13:21,501 [INFO] logger: Run Job
+2023-03-24 14:13:21,501 [INFO] logger: Run Job
+2023-03-24 14:13:21,501 [INFO] logger: Run Job
+2023-03-24 14:13:31,507 [INFO] logger: Run Job
+2023-03-24 14:13:31,507 [INFO] logger: Run Job
+2023-03-24 14:13:31,507 [INFO] logger: Run Job
+2023-03-24 14:13:31,507 [INFO] logger: Run Job
+2023-03-24 14:13:31,507 [INFO] logger: Run Job
+2023-03-24 14:13:31,507 [INFO] logger: Run Job
+2023-03-24 14:13:41,473 [INFO] logger: calendar
+2023-03-24 14:13:41,473 [INFO] logger: calendar
+2023-03-24 14:13:41,473 [INFO] logger: calendar
+2023-03-24 14:13:41,473 [INFO] logger: calendar
+2023-03-24 14:13:41,473 [INFO] logger: calendar
+2023-03-24 14:13:41,473 [INFO] logger: calendar
+2023-03-24 14:14:41,477 [INFO] logger: calendar
+2023-03-24 14:14:41,477 [INFO] logger: calendar
+2023-03-24 14:14:41,477 [INFO] logger: calendar
+2023-03-24 14:14:41,477 [INFO] logger: calendar
+2023-03-24 14:14:41,477 [INFO] logger: calendar
+2023-03-24 14:14:41,477 [INFO] logger: calendar
+2023-03-24 14:15:06,551 [INFO] logger: Database geactiveerd
+2023-03-24 14:15:06,551 [INFO] logger: Database geactiveerd
+2023-03-24 14:15:06,551 [INFO] logger: Database geactiveerd
+2023-03-24 14:15:06,757 [INFO] logger: Database geactiveerd
+2023-03-24 14:15:06,757 [INFO] logger: Database geactiveerd
+2023-03-24 14:15:06,757 [INFO] logger: Database geactiveerd
+2023-03-24 14:15:06,757 [INFO] logger: Database geactiveerd
+2023-03-24 14:15:06,757 [INFO] logger: Database geactiveerd
+2023-03-24 14:15:06,759 [INFO] logger: Starting application
+2023-03-24 14:15:06,759 [INFO] logger: Starting application
+2023-03-24 14:15:06,759 [INFO] logger: Starting application
+2023-03-24 14:15:06,759 [INFO] logger: Starting application
+2023-03-24 14:15:06,759 [INFO] logger: Starting application
+2023-03-24 14:15:06,759 [INFO] logger: Starting application
+2023-03-24 14:15:06,761 [INFO] logger: Starting www on port 8080
+2023-03-24 14:15:06,761 [INFO] logger: Starting www on port 8080
+2023-03-24 14:15:06,761 [INFO] logger: Starting www on port 8080
+2023-03-24 14:15:06,761 [INFO] logger: Starting www on port 8080
+2023-03-24 14:15:06,761 [INFO] logger: Starting www on port 8080
+2023-03-24 14:15:06,761 [INFO] logger: Starting www on port 8080
+2023-03-24 14:15:06,764 [INFO] logger: Starting api on port 9090
+2023-03-24 14:15:06,764 [INFO] logger: Starting api on port 9090
+2023-03-24 14:15:06,764 [INFO] logger: Starting api on port 9090
+2023-03-24 14:15:06,764 [INFO] logger: Starting api on port 9090
+2023-03-24 14:15:06,764 [INFO] logger: Starting api on port 9090
+2023-03-24 14:15:06,764 [INFO] logger: Starting api on port 9090
+2023-03-24 14:15:06,769 [INFO] logger: calendar
+2023-03-24 14:15:06,769 [INFO] logger: calendar
+2023-03-24 14:15:06,769 [INFO] logger: calendar
+2023-03-24 14:15:06,769 [INFO] logger: calendar
+2023-03-24 14:15:06,769 [INFO] logger: calendar
+2023-03-24 14:15:06,769 [INFO] logger: calendar
+2023-03-24 14:15:16,776 [INFO] logger: Run Job
+2023-03-24 14:15:16,776 [INFO] logger: Run Job
+2023-03-24 14:15:16,776 [INFO] logger: Run Job
+2023-03-24 14:15:16,776 [INFO] logger: Run Job
+2023-03-24 14:15:16,776 [INFO] logger: Run Job
+2023-03-24 14:15:16,776 [INFO] logger: Run Job
+2023-03-24 14:15:26,783 [INFO] logger: Run Job
+2023-03-24 14:15:26,783 [INFO] logger: Run Job
+2023-03-24 14:15:26,783 [INFO] logger: Run Job
+2023-03-24 14:15:26,783 [INFO] logger: Run Job
+2023-03-24 14:15:26,783 [INFO] logger: Run Job
+2023-03-24 14:15:26,783 [INFO] logger: Run Job
+2023-03-24 14:15:36,792 [INFO] logger: Run Job
+2023-03-24 14:15:36,792 [INFO] logger: Run Job
+2023-03-24 14:15:36,792 [INFO] logger: Run Job
+2023-03-24 14:15:36,792 [INFO] logger: Run Job
+2023-03-24 14:15:36,792 [INFO] logger: Run Job
+2023-03-24 14:15:36,792 [INFO] logger: Run Job
+2023-03-24 14:15:46,801 [INFO] logger: Run Job
+2023-03-24 14:15:46,801 [INFO] logger: Run Job
+2023-03-24 14:15:46,801 [INFO] logger: Run Job
+2023-03-24 14:15:46,801 [INFO] logger: Run Job
+2023-03-24 14:15:46,801 [INFO] logger: Run Job
+2023-03-24 14:15:46,801 [INFO] logger: Run Job
+2023-03-24 14:15:56,809 [INFO] logger: Run Job
+2023-03-24 14:15:56,809 [INFO] logger: Run Job
+2023-03-24 14:15:56,809 [INFO] logger: Run Job
+2023-03-24 14:15:56,809 [INFO] logger: Run Job
+2023-03-24 14:15:56,809 [INFO] logger: Run Job
+2023-03-24 14:15:56,809 [INFO] logger: Run Job
+2023-03-24 14:16:06,776 [INFO] logger: calendar
+2023-03-24 14:16:06,776 [INFO] logger: calendar
+2023-03-24 14:16:06,776 [INFO] logger: calendar
+2023-03-24 14:16:06,776 [INFO] logger: calendar
+2023-03-24 14:16:06,776 [INFO] logger: calendar
+2023-03-24 14:16:06,776 [INFO] logger: calendar
+2023-03-24 14:17:06,780 [INFO] logger: calendar
+2023-03-24 14:17:06,780 [INFO] logger: calendar
+2023-03-24 14:17:06,780 [INFO] logger: calendar
+2023-03-24 14:17:06,780 [INFO] logger: calendar
+2023-03-24 14:17:06,780 [INFO] logger: calendar
+2023-03-24 14:17:06,780 [INFO] logger: calendar
+2023-03-24 14:18:06,784 [INFO] logger: calendar
+2023-03-24 14:18:06,784 [INFO] logger: calendar
+2023-03-24 14:18:06,784 [INFO] logger: calendar
+2023-03-24 14:18:06,784 [INFO] logger: calendar
+2023-03-24 14:18:06,784 [INFO] logger: calendar
+2023-03-24 14:18:06,784 [INFO] logger: calendar
+2023-03-24 14:19:06,788 [INFO] logger: calendar
+2023-03-24 14:19:06,788 [INFO] logger: calendar
+2023-03-24 14:19:06,788 [INFO] logger: calendar
+2023-03-24 14:19:06,788 [INFO] logger: calendar
+2023-03-24 14:19:06,788 [INFO] logger: calendar
+2023-03-24 14:19:06,788 [INFO] logger: calendar
+2023-03-24 14:20:01,786 [INFO] logger: Database geactiveerd
+2023-03-24 14:20:01,786 [INFO] logger: Database geactiveerd
+2023-03-24 14:20:01,786 [INFO] logger: Database geactiveerd
+2023-03-24 14:20:02,142 [INFO] logger: Database geactiveerd
+2023-03-24 14:20:02,142 [INFO] logger: Database geactiveerd
+2023-03-24 14:20:02,142 [INFO] logger: Database geactiveerd
+2023-03-24 14:20:02,142 [INFO] logger: Database geactiveerd
+2023-03-24 14:20:02,142 [INFO] logger: Database geactiveerd
+2023-03-24 14:20:02,144 [INFO] logger: Starting application
+2023-03-24 14:20:02,144 [INFO] logger: Starting application
+2023-03-24 14:20:02,144 [INFO] logger: Starting application
+2023-03-24 14:20:02,144 [INFO] logger: Starting application
+2023-03-24 14:20:02,144 [INFO] logger: Starting application
+2023-03-24 14:20:02,144 [INFO] logger: Starting application
+2023-03-24 14:20:02,146 [INFO] logger: Starting www on port 8080
+2023-03-24 14:20:02,146 [INFO] logger: Starting www on port 8080
+2023-03-24 14:20:02,146 [INFO] logger: Starting www on port 8080
+2023-03-24 14:20:02,146 [INFO] logger: Starting www on port 8080
+2023-03-24 14:20:02,146 [INFO] logger: Starting www on port 8080
+2023-03-24 14:20:02,146 [INFO] logger: Starting www on port 8080
+2023-03-24 14:20:02,150 [INFO] logger: Starting api on port 9090
+2023-03-24 14:20:02,150 [INFO] logger: Starting api on port 9090
+2023-03-24 14:20:02,150 [INFO] logger: Starting api on port 9090
+2023-03-24 14:20:02,150 [INFO] logger: Starting api on port 9090
+2023-03-24 14:20:02,150 [INFO] logger: Starting api on port 9090
+2023-03-24 14:20:02,150 [INFO] logger: Starting api on port 9090
+2023-03-24 14:20:02,155 [INFO] logger: calendar
+2023-03-24 14:20:02,155 [INFO] logger: calendar
+2023-03-24 14:20:02,155 [INFO] logger: calendar
+2023-03-24 14:20:02,155 [INFO] logger: calendar
+2023-03-24 14:20:02,155 [INFO] logger: calendar
+2023-03-24 14:20:02,155 [INFO] logger: calendar
+2023-03-24 14:20:12,161 [INFO] logger: Run Job
+2023-03-24 14:20:12,161 [INFO] logger: Run Job
+2023-03-24 14:20:12,161 [INFO] logger: Run Job
+2023-03-24 14:20:12,161 [INFO] logger: Run Job
+2023-03-24 14:20:12,161 [INFO] logger: Run Job
+2023-03-24 14:20:12,161 [INFO] logger: Run Job
+2023-03-24 14:20:22,171 [INFO] logger: Run Job
+2023-03-24 14:20:22,171 [INFO] logger: Run Job
+2023-03-24 14:20:22,171 [INFO] logger: Run Job
+2023-03-24 14:20:22,171 [INFO] logger: Run Job
+2023-03-24 14:20:22,171 [INFO] logger: Run Job
+2023-03-24 14:20:22,171 [INFO] logger: Run Job
+2023-03-24 14:20:32,179 [INFO] logger: Run Job
+2023-03-24 14:20:32,179 [INFO] logger: Run Job
+2023-03-24 14:20:32,179 [INFO] logger: Run Job
+2023-03-24 14:20:32,179 [INFO] logger: Run Job
+2023-03-24 14:20:32,179 [INFO] logger: Run Job
+2023-03-24 14:20:32,179 [INFO] logger: Run Job
+2023-03-24 14:20:42,189 [INFO] logger: Run Job
+2023-03-24 14:20:42,189 [INFO] logger: Run Job
+2023-03-24 14:20:42,189 [INFO] logger: Run Job
+2023-03-24 14:20:42,189 [INFO] logger: Run Job
+2023-03-24 14:20:42,189 [INFO] logger: Run Job
+2023-03-24 14:20:42,189 [INFO] logger: Run Job
+2023-03-24 14:20:52,197 [INFO] logger: Run Job
+2023-03-24 14:20:52,197 [INFO] logger: Run Job
+2023-03-24 14:20:52,197 [INFO] logger: Run Job
+2023-03-24 14:20:52,197 [INFO] logger: Run Job
+2023-03-24 14:20:52,197 [INFO] logger: Run Job
+2023-03-24 14:20:52,197 [INFO] logger: Run Job
+2023-03-24 14:21:02,161 [INFO] logger: calendar
+2023-03-24 14:21:02,161 [INFO] logger: calendar
+2023-03-24 14:21:02,161 [INFO] logger: calendar
+2023-03-24 14:21:02,161 [INFO] logger: calendar
+2023-03-24 14:21:02,161 [INFO] logger: calendar
+2023-03-24 14:21:02,161 [INFO] logger: calendar
+2023-03-24 14:22:02,165 [INFO] logger: calendar
+2023-03-24 14:22:02,165 [INFO] logger: calendar
+2023-03-24 14:22:02,165 [INFO] logger: calendar
+2023-03-24 14:22:02,165 [INFO] logger: calendar
+2023-03-24 14:22:02,165 [INFO] logger: calendar
+2023-03-24 14:22:02,165 [INFO] logger: calendar
+2023-03-24 14:22:56,568 [INFO] logger: Database geactiveerd
+2023-03-24 14:22:56,568 [INFO] logger: Database geactiveerd
+2023-03-24 14:22:56,568 [INFO] logger: Database geactiveerd
+2023-03-24 14:22:56,800 [INFO] logger: Database geactiveerd
+2023-03-24 14:22:56,800 [INFO] logger: Database geactiveerd
+2023-03-24 14:22:56,800 [INFO] logger: Database geactiveerd
+2023-03-24 14:22:56,800 [INFO] logger: Database geactiveerd
+2023-03-24 14:22:56,800 [INFO] logger: Database geactiveerd
+2023-03-24 14:22:56,802 [INFO] logger: Starting application
+2023-03-24 14:22:56,802 [INFO] logger: Starting application
+2023-03-24 14:22:56,802 [INFO] logger: Starting application
+2023-03-24 14:22:56,802 [INFO] logger: Starting application
+2023-03-24 14:22:56,802 [INFO] logger: Starting application
+2023-03-24 14:22:56,802 [INFO] logger: Starting application
+2023-03-24 14:22:56,804 [INFO] logger: Starting www on port 8080
+2023-03-24 14:22:56,804 [INFO] logger: Starting www on port 8080
+2023-03-24 14:22:56,804 [INFO] logger: Starting www on port 8080
+2023-03-24 14:22:56,804 [INFO] logger: Starting www on port 8080
+2023-03-24 14:22:56,804 [INFO] logger: Starting www on port 8080
+2023-03-24 14:22:56,804 [INFO] logger: Starting www on port 8080
+2023-03-24 14:22:56,807 [INFO] logger: Starting api on port 9090
+2023-03-24 14:22:56,807 [INFO] logger: Starting api on port 9090
+2023-03-24 14:22:56,807 [INFO] logger: Starting api on port 9090
+2023-03-24 14:22:56,807 [INFO] logger: Starting api on port 9090
+2023-03-24 14:22:56,807 [INFO] logger: Starting api on port 9090
+2023-03-24 14:22:56,807 [INFO] logger: Starting api on port 9090
+2023-03-24 14:22:56,811 [INFO] logger: calendar
+2023-03-24 14:22:56,811 [INFO] logger: calendar
+2023-03-24 14:22:56,811 [INFO] logger: calendar
+2023-03-24 14:22:56,811 [INFO] logger: calendar
+2023-03-24 14:22:56,811 [INFO] logger: calendar
+2023-03-24 14:22:56,811 [INFO] logger: calendar
+2023-03-24 14:23:06,819 [INFO] logger: Run Job
+2023-03-24 14:23:06,819 [INFO] logger: Run Job
+2023-03-24 14:23:06,819 [INFO] logger: Run Job
+2023-03-24 14:23:06,819 [INFO] logger: Run Job
+2023-03-24 14:23:06,819 [INFO] logger: Run Job
+2023-03-24 14:23:06,819 [INFO] logger: Run Job
+2023-03-24 14:23:16,829 [INFO] logger: Run Job
+2023-03-24 14:23:16,829 [INFO] logger: Run Job
+2023-03-24 14:23:16,829 [INFO] logger: Run Job
+2023-03-24 14:23:16,829 [INFO] logger: Run Job
+2023-03-24 14:23:16,829 [INFO] logger: Run Job
+2023-03-24 14:23:16,829 [INFO] logger: Run Job
+2023-03-24 14:24:03,940 [INFO] logger: Database geactiveerd
+2023-03-24 14:24:03,940 [INFO] logger: Database geactiveerd
+2023-03-24 14:24:03,940 [INFO] logger: Database geactiveerd
+2023-03-24 14:24:04,154 [INFO] logger: Database geactiveerd
+2023-03-24 14:24:04,154 [INFO] logger: Database geactiveerd
+2023-03-24 14:24:04,154 [INFO] logger: Database geactiveerd
+2023-03-24 14:24:04,154 [INFO] logger: Database geactiveerd
+2023-03-24 14:24:04,154 [INFO] logger: Database geactiveerd
+2023-03-24 14:24:04,156 [INFO] logger: Starting application
+2023-03-24 14:24:04,156 [INFO] logger: Starting application
+2023-03-24 14:24:04,156 [INFO] logger: Starting application
+2023-03-24 14:24:04,156 [INFO] logger: Starting application
+2023-03-24 14:24:04,156 [INFO] logger: Starting application
+2023-03-24 14:24:04,156 [INFO] logger: Starting application
+2023-03-24 14:24:04,158 [INFO] logger: Starting www on port 8080
+2023-03-24 14:24:04,158 [INFO] logger: Starting www on port 8080
+2023-03-24 14:24:04,158 [INFO] logger: Starting www on port 8080
+2023-03-24 14:24:04,158 [INFO] logger: Starting www on port 8080
+2023-03-24 14:24:04,158 [INFO] logger: Starting www on port 8080
+2023-03-24 14:24:04,158 [INFO] logger: Starting www on port 8080
+2023-03-24 14:24:04,161 [INFO] logger: Starting api on port 9090
+2023-03-24 14:24:04,161 [INFO] logger: Starting api on port 9090
+2023-03-24 14:24:04,161 [INFO] logger: Starting api on port 9090
+2023-03-24 14:24:04,161 [INFO] logger: Starting api on port 9090
+2023-03-24 14:24:04,161 [INFO] logger: Starting api on port 9090
+2023-03-24 14:24:04,161 [INFO] logger: Starting api on port 9090
+2023-03-24 14:24:04,166 [INFO] logger: calendar
+2023-03-24 14:24:04,166 [INFO] logger: calendar
+2023-03-24 14:24:04,166 [INFO] logger: calendar
+2023-03-24 14:24:04,166 [INFO] logger: calendar
+2023-03-24 14:24:04,166 [INFO] logger: calendar
+2023-03-24 14:24:04,166 [INFO] logger: calendar
+2023-03-24 14:25:04,172 [INFO] logger: calendar
+2023-03-24 14:25:04,172 [INFO] logger: calendar
+2023-03-24 14:25:04,172 [INFO] logger: calendar
+2023-03-24 14:25:04,172 [INFO] logger: calendar
+2023-03-24 14:25:04,172 [INFO] logger: calendar
+2023-03-24 14:25:04,172 [INFO] logger: calendar
+2023-03-24 14:25:37,984 [INFO] logger: Database geactiveerd
+2023-03-24 14:25:37,984 [INFO] logger: Database geactiveerd
+2023-03-24 14:25:37,984 [INFO] logger: Database geactiveerd
+2023-03-24 14:25:38,308 [INFO] logger: Database geactiveerd
+2023-03-24 14:25:38,308 [INFO] logger: Database geactiveerd
+2023-03-24 14:25:38,308 [INFO] logger: Database geactiveerd
+2023-03-24 14:25:38,308 [INFO] logger: Database geactiveerd
+2023-03-24 14:25:38,308 [INFO] logger: Database geactiveerd
+2023-03-24 14:25:38,310 [INFO] logger: Starting application
+2023-03-24 14:25:38,310 [INFO] logger: Starting application
+2023-03-24 14:25:38,310 [INFO] logger: Starting application
+2023-03-24 14:25:38,310 [INFO] logger: Starting application
+2023-03-24 14:25:38,310 [INFO] logger: Starting application
+2023-03-24 14:25:38,310 [INFO] logger: Starting application
+2023-03-24 14:25:38,312 [INFO] logger: Starting www on port 8080
+2023-03-24 14:25:38,312 [INFO] logger: Starting www on port 8080
+2023-03-24 14:25:38,312 [INFO] logger: Starting www on port 8080
+2023-03-24 14:25:38,312 [INFO] logger: Starting www on port 8080
+2023-03-24 14:25:38,312 [INFO] logger: Starting www on port 8080
+2023-03-24 14:25:38,312 [INFO] logger: Starting www on port 8080
+2023-03-24 14:25:38,315 [INFO] logger: Starting api on port 9090
+2023-03-24 14:25:38,315 [INFO] logger: Starting api on port 9090
+2023-03-24 14:25:38,315 [INFO] logger: Starting api on port 9090
+2023-03-24 14:25:38,315 [INFO] logger: Starting api on port 9090
+2023-03-24 14:25:38,315 [INFO] logger: Starting api on port 9090
+2023-03-24 14:25:38,315 [INFO] logger: Starting api on port 9090
+2023-03-24 14:25:38,319 [INFO] logger: calendar
+2023-03-24 14:25:38,319 [INFO] logger: calendar
+2023-03-24 14:25:38,319 [INFO] logger: calendar
+2023-03-24 14:25:38,319 [INFO] logger: calendar
+2023-03-24 14:25:38,319 [INFO] logger: calendar
+2023-03-24 14:25:38,319 [INFO] logger: calendar
+2023-03-24 14:26:14,718 [INFO] logger: Database geactiveerd
+2023-03-24 14:26:14,718 [INFO] logger: Database geactiveerd
+2023-03-24 14:26:14,718 [INFO] logger: Database geactiveerd
+2023-03-24 14:26:14,928 [INFO] logger: Database geactiveerd
+2023-03-24 14:26:14,928 [INFO] logger: Database geactiveerd
+2023-03-24 14:26:14,928 [INFO] logger: Database geactiveerd
+2023-03-24 14:26:14,928 [INFO] logger: Database geactiveerd
+2023-03-24 14:26:14,928 [INFO] logger: Database geactiveerd
+2023-03-24 14:26:14,930 [INFO] logger: Starting application
+2023-03-24 14:26:14,930 [INFO] logger: Starting application
+2023-03-24 14:26:14,930 [INFO] logger: Starting application
+2023-03-24 14:26:14,930 [INFO] logger: Starting application
+2023-03-24 14:26:14,930 [INFO] logger: Starting application
+2023-03-24 14:26:14,930 [INFO] logger: Starting application
+2023-03-24 14:26:14,932 [INFO] logger: Starting www on port 8080
+2023-03-24 14:26:14,932 [INFO] logger: Starting www on port 8080
+2023-03-24 14:26:14,932 [INFO] logger: Starting www on port 8080
+2023-03-24 14:26:14,932 [INFO] logger: Starting www on port 8080
+2023-03-24 14:26:14,932 [INFO] logger: Starting www on port 8080
+2023-03-24 14:26:14,932 [INFO] logger: Starting www on port 8080
+2023-03-24 14:26:14,934 [INFO] logger: Starting api on port 9090
+2023-03-24 14:26:14,934 [INFO] logger: Starting api on port 9090
+2023-03-24 14:26:14,934 [INFO] logger: Starting api on port 9090
+2023-03-24 14:26:14,934 [INFO] logger: Starting api on port 9090
+2023-03-24 14:26:14,934 [INFO] logger: Starting api on port 9090
+2023-03-24 14:26:14,934 [INFO] logger: Starting api on port 9090
+2023-03-24 14:26:14,938 [INFO] logger: calendar
+2023-03-24 14:26:14,938 [INFO] logger: calendar
+2023-03-24 14:26:14,938 [INFO] logger: calendar
+2023-03-24 14:26:14,938 [INFO] logger: calendar
+2023-03-24 14:26:14,938 [INFO] logger: calendar
+2023-03-24 14:26:14,938 [INFO] logger: calendar
+2023-03-24 14:27:14,945 [INFO] logger: calendar
+2023-03-24 14:27:14,945 [INFO] logger: calendar
+2023-03-24 14:27:14,945 [INFO] logger: calendar
+2023-03-24 14:27:14,945 [INFO] logger: calendar
+2023-03-24 14:27:14,945 [INFO] logger: calendar
+2023-03-24 14:27:14,945 [INFO] logger: calendar
+2023-03-24 14:28:14,948 [INFO] logger: calendar
+2023-03-24 14:28:14,948 [INFO] logger: calendar
+2023-03-24 14:28:14,948 [INFO] logger: calendar
+2023-03-24 14:28:14,948 [INFO] logger: calendar
+2023-03-24 14:28:14,948 [INFO] logger: calendar
+2023-03-24 14:28:14,948 [INFO] logger: calendar
+2023-03-24 14:28:35,654 [INFO] logger: Database geactiveerd
+2023-03-24 14:28:35,654 [INFO] logger: Database geactiveerd
+2023-03-24 14:28:35,654 [INFO] logger: Database geactiveerd
+2023-03-24 14:28:35,865 [INFO] logger: Database geactiveerd
+2023-03-24 14:28:35,865 [INFO] logger: Database geactiveerd
+2023-03-24 14:28:35,865 [INFO] logger: Database geactiveerd
+2023-03-24 14:28:35,865 [INFO] logger: Database geactiveerd
+2023-03-24 14:28:35,865 [INFO] logger: Database geactiveerd
+2023-03-24 14:28:35,867 [INFO] logger: Starting application
+2023-03-24 14:28:35,867 [INFO] logger: Starting application
+2023-03-24 14:28:35,867 [INFO] logger: Starting application
+2023-03-24 14:28:35,867 [INFO] logger: Starting application
+2023-03-24 14:28:35,867 [INFO] logger: Starting application
+2023-03-24 14:28:35,867 [INFO] logger: Starting application
+2023-03-24 14:28:35,869 [INFO] logger: Starting www on port 8080
+2023-03-24 14:28:35,869 [INFO] logger: Starting www on port 8080
+2023-03-24 14:28:35,869 [INFO] logger: Starting www on port 8080
+2023-03-24 14:28:35,869 [INFO] logger: Starting www on port 8080
+2023-03-24 14:28:35,869 [INFO] logger: Starting www on port 8080
+2023-03-24 14:28:35,869 [INFO] logger: Starting www on port 8080
+2023-03-24 14:28:35,872 [INFO] logger: Starting api on port 9090
+2023-03-24 14:28:35,872 [INFO] logger: Starting api on port 9090
+2023-03-24 14:28:35,872 [INFO] logger: Starting api on port 9090
+2023-03-24 14:28:35,872 [INFO] logger: Starting api on port 9090
+2023-03-24 14:28:35,872 [INFO] logger: Starting api on port 9090
+2023-03-24 14:28:35,872 [INFO] logger: Starting api on port 9090
+2023-03-24 14:28:35,876 [INFO] logger: calendar
+2023-03-24 14:28:35,876 [INFO] logger: calendar
+2023-03-24 14:28:35,876 [INFO] logger: calendar
+2023-03-24 14:28:35,876 [INFO] logger: calendar
+2023-03-24 14:28:35,876 [INFO] logger: calendar
+2023-03-24 14:28:35,876 [INFO] logger: calendar
