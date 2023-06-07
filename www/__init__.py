@@ -15,17 +15,18 @@ def hello():
 def lijst_controllers():
     logger.info("Flask show controllerlijst")
     # Lijst met controllers uit de database
-    controllers = db.get_controllers()
 
+    controllers = database.show_controllers()
+    logger.info(controllers)
     # HTML-code voor het weergeven van de lijst als een tabel
     html = "<table>"
-    html += "<tr><th>ID</th><th>Naam</th><th>IP-adres</th><th>VPN-adres</th></tr>"
+    html += "<tr><th width='10%'>ID</th width='400%'><th>Naam</th><th width='25%'>IP-adres</th><th width='25%'>VPN-adres</th></tr>"
     for controller in controllers:
         html += "<tr>"
-        html += "<td>{}</td>".format(controller[0])
-        html += "<td>{}</td>".format(controller[1])
-        html += "<td>{}</td>".format(controller[2])
-        html += "<td>{}</td>".format(controller[3])
+        html += "<td width='10%'>{}</td>".format(controller.name)
+        html += "<td width='40%'>{}</td>".format(controller.id)
+        html += "<td width='25%'>{}</td>".format(controller.ip_vpn)
+        html += "<td width='25%'>{}</td>".format(controller.ip_wan)
         html += "</tr>"
     html += "</table>"
 

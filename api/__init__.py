@@ -49,7 +49,7 @@ def api_hello(data: dict):
         answer = db.get_id_controller(data.get('controllernaam'))
         logger.info(f"Sending UUID naar controller {answer}")
         # Nazien of answer gelijk is aan de nieuwe controller
-        if answer.naam == data.get('controllernaam') and answer.ip1 != data.get("ip_wan") or
+  #      if answer.naam == data.get('controllernaam') and answer.ip1 != data.get("ip_wan") or
     else:
         # Controller aanmaken
         db.add_controller(naam=data.get('controllernaam'),

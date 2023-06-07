@@ -57,6 +57,7 @@ def show_controllers():
     for controller in controllers:
         print(
             f"controllernaam: {controller.name}, {controller.id} met ip {controller.ip_wan} en vpn ip {controller.ip_vpn}")
+    return controllers
 
 
 # .strftime('%H:%M:%S.%f %d-%m-%Y')
